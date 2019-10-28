@@ -1,0 +1,980 @@
+,date,forename,surname,nationality,name,country,grid,points,lat,lng
+0,2008-03-16,Lewis,Hamilton,British,Albert Park Grand Prix Circuit,Australia,1,10.0,-37.8497,144.968
+1,2015-03-15,Lewis,Hamilton,British,Albert Park Grand Prix Circuit,Australia,1,25.0,-37.8497,144.968
+2,2007-03-18,Kimi,RÌ_ikkÌ¦nen,Finnish,Albert Park Grand Prix Circuit,Australia,1,10.0,-37.8497,144.968
+3,2013-03-17,Kimi,RÌ_ikkÌ¦nen,Finnish,Albert Park Grand Prix Circuit,Australia,7,25.0,-37.8497,144.968
+4,2011-03-27,Sebastian,Vettel,German,Albert Park Grand Prix Circuit,Australia,1,25.0,-37.8497,144.968
+5,2017-03-26,Sebastian,Vettel,German,Albert Park Grand Prix Circuit,Australia,2,25.0,-37.8497,144.968
+6,2006-04-02,Fernando,Alonso,Spanish,Albert Park Grand Prix Circuit,Australia,3,10.0,-37.8497,144.968
+7,2005-03-06,Giancarlo,Fisichella,Italian,Albert Park Grand Prix Circuit,Australia,1,10.0,-37.8497,144.968
+8,2004-03-07,Michael,Schumacher,German,Albert Park Grand Prix Circuit,Australia,1,10.0,-37.8497,144.968
+9,2002-03-03,Michael,Schumacher,German,Albert Park Grand Prix Circuit,Australia,2,10.0,-37.8497,144.968
+10,2001-03-04,Michael,Schumacher,German,Albert Park Grand Prix Circuit,Australia,1,10.0,-37.8497,144.968
+11,2000-03-12,Michael,Schumacher,German,Albert Park Grand Prix Circuit,Australia,3,10.0,-37.8497,144.968
+12,2009-03-29,Jenson,Button,British,Albert Park Grand Prix Circuit,Australia,1,10.0,-37.8497,144.968
+13,2010-03-28,Jenson,Button,British,Albert Park Grand Prix Circuit,Australia,4,25.0,-37.8497,144.968
+14,2012-03-18,Jenson,Button,British,Albert Park Grand Prix Circuit,Australia,2,25.0,-37.8497,144.968
+15,2003-03-09,David,Coulthard,British,Albert Park Grand Prix Circuit,Australia,11,10.0,-37.8497,144.968
+16,1997-03-09,David,Coulthard,British,Albert Park Grand Prix Circuit,Australia,4,10.0,-37.8497,144.968
+17,1998-03-08,Mika,HÌ_kkinen,Finnish,Albert Park Grand Prix Circuit,Australia,1,10.0,-37.8497,144.968
+18,1999-03-07,Eddie,Irvine,British,Albert Park Grand Prix Circuit,Australia,6,10.0,-37.8497,144.968
+19,1996-03-10,Damon,Hill,British,Albert Park Grand Prix Circuit,Australia,2,10.0,-37.8497,144.968
+20,2014-03-16,Nico,Rosberg,German,Albert Park Grand Prix Circuit,Australia,3,25.0,-37.8497,144.968
+21,2016-03-20,Nico,Rosberg,German,Albert Park Grand Prix Circuit,Australia,2,25.0,-37.8497,144.968
+22,2008-05-25,Lewis,Hamilton,British,Circuit de Monaco,Monaco,3,10.0,43.7347,7.420560000000001
+23,2016-05-29,Lewis,Hamilton,British,Circuit de Monaco,Monaco,3,25.0,43.7347,7.420560000000001
+24,2005-05-22,Kimi,RÌ_ikkÌ¦nen,Finnish,Circuit de Monaco,Monaco,1,10.0,43.7347,7.420560000000001
+25,2011-05-29,Sebastian,Vettel,German,Circuit de Monaco,Monaco,1,25.0,43.7347,7.420560000000001
+26,2017-05-28,Sebastian,Vettel,German,Circuit de Monaco,Monaco,2,25.0,43.7347,7.420560000000001
+27,2007-05-27,Fernando,Alonso,Spanish,Circuit de Monaco,Monaco,1,10.0,43.7347,7.420560000000001
+28,2006-05-28,Fernando,Alonso,Spanish,Circuit de Monaco,Monaco,1,10.0,43.7347,7.420560000000001
+29,2001-05-27,Michael,Schumacher,German,Circuit de Monaco,Monaco,2,10.0,43.7347,7.420560000000001
+30,1999-05-16,Michael,Schumacher,German,Circuit de Monaco,Monaco,2,10.0,43.7347,7.420560000000001
+31,1997-05-11,Michael,Schumacher,German,Circuit de Monaco,Monaco,2,10.0,43.7347,7.420560000000001
+32,1995-05-28,Michael,Schumacher,German,Circuit de Monaco,Monaco,2,10.0,43.7347,7.420560000000001
+33,1994-05-15,Michael,Schumacher,German,Circuit de Monaco,Monaco,1,10.0,43.7347,7.420560000000001
+34,2009-05-24,Jenson,Button,British,Circuit de Monaco,Monaco,1,10.0,43.7347,7.420560000000001
+35,2003-06-01,Juan,Pablo Montoya,Colombian,Circuit de Monaco,Monaco,3,10.0,43.7347,7.420560000000001
+36,2004-05-23,Jarno,Trulli,Italian,Circuit de Monaco,Monaco,1,10.0,43.7347,7.420560000000001
+37,2002-05-26,David,Coulthard,British,Circuit de Monaco,Monaco,2,10.0,43.7347,7.420560000000001
+38,2000-06-04,David,Coulthard,British,Circuit de Monaco,Monaco,3,10.0,43.7347,7.420560000000001
+39,1998-05-24,Mika,HÌ_kkinen,Finnish,Circuit de Monaco,Monaco,1,10.0,43.7347,7.420560000000001
+40,1996-05-19,Olivier,Panis,French,Circuit de Monaco,Monaco,14,10.0,43.7347,7.420560000000001
+41,1988-05-15,Alain,Prost,French,Circuit de Monaco,Monaco,2,9.0,43.7347,7.420560000000001
+42,1986-05-11,Alain,Prost,French,Circuit de Monaco,Monaco,1,9.0,43.7347,7.420560000000001
+43,1985-05-19,Alain,Prost,French,Circuit de Monaco,Monaco,5,9.0,43.7347,7.420560000000001
+44,1984-06-03,Alain,Prost,French,Circuit de Monaco,Monaco,1,4.5,43.7347,7.420560000000001
+45,1993-05-23,Ayrton,Senna,Brazilian,Circuit de Monaco,Monaco,3,10.0,43.7347,7.420560000000001
+46,1992-05-31,Ayrton,Senna,Brazilian,Circuit de Monaco,Monaco,3,10.0,43.7347,7.420560000000001
+47,1991-05-12,Ayrton,Senna,Brazilian,Circuit de Monaco,Monaco,1,10.0,43.7347,7.420560000000001
+48,1990-05-27,Ayrton,Senna,Brazilian,Circuit de Monaco,Monaco,1,9.0,43.7347,7.420560000000001
+49,1989-05-07,Ayrton,Senna,Brazilian,Circuit de Monaco,Monaco,1,9.0,43.7347,7.420560000000001
+50,1987-05-31,Ayrton,Senna,Brazilian,Circuit de Monaco,Monaco,2,9.0,43.7347,7.420560000000001
+51,1982-05-23,Riccardo,Patrese,Italian,Circuit de Monaco,Monaco,2,9.0,43.7347,7.420560000000001
+52,2010-05-16,Mark,Webber,Australian,Circuit de Monaco,Monaco,1,25.0,43.7347,7.420560000000001
+53,2012-05-27,Mark,Webber,Australian,Circuit de Monaco,Monaco,1,25.0,43.7347,7.420560000000001
+54,1983-05-15,Keke,Rosberg,Finnish,Circuit de Monaco,Monaco,5,9.0,43.7347,7.420560000000001
+55,1976-05-30,Niki,Lauda,Austrian,Circuit de Monaco,Monaco,1,9.0,43.7347,7.420560000000001
+56,1975-05-11,Niki,Lauda,Austrian,Circuit de Monaco,Monaco,1,9.0,43.7347,7.420560000000001
+57,1980-05-18,Carlos,Reutemann,Argentine,Circuit de Monaco,Monaco,2,9.0,43.7347,7.420560000000001
+58,1981-05-31,Gilles,Villeneuve,Canadian,Circuit de Monaco,Monaco,2,9.0,43.7347,7.420560000000001
+59,1978-05-07,Patrick,Depailler,French,Circuit de Monaco,Monaco,5,9.0,43.7347,7.420560000000001
+60,1979-05-27,Jody,Scheckter,South African,Circuit de Monaco,Monaco,1,9.0,43.7347,7.420560000000001
+61,1977-05-22,Jody,Scheckter,South African,Circuit de Monaco,Monaco,2,9.0,43.7347,7.420560000000001
+62,1974-05-26,Ronnie,Peterson,Swedish,Circuit de Monaco,Monaco,3,9.0,43.7347,7.420560000000001
+63,1967-05-07,Denny,Hulme,New Zealander,Circuit de Monaco,Monaco,4,9.0,43.7347,7.420560000000001
+64,1973-06-03,Jackie,Stewart,British,Circuit de Monaco,Monaco,1,9.0,43.7347,7.420560000000001
+65,1971-05-23,Jackie,Stewart,British,Circuit de Monaco,Monaco,1,9.0,43.7347,7.420560000000001
+66,1966-05-22,Jackie,Stewart,British,Circuit de Monaco,Monaco,3,9.0,43.7347,7.420560000000001
+67,1972-05-14,Jean-Pierre,Beltoise,French,Circuit de Monaco,Monaco,4,9.0,43.7347,7.420560000000001
+68,1959-05-10,Jack,Brabham,Australian,Circuit de Monaco,Monaco,3,9.0,43.7347,7.420560000000001
+69,1970-05-10,Jochen,Rindt,Austrian,Circuit de Monaco,Monaco,8,9.0,43.7347,7.420560000000001
+70,1969-05-18,Graham,Hill,British,Circuit de Monaco,Monaco,4,9.0,43.7347,7.420560000000001
+71,1968-05-26,Graham,Hill,British,Circuit de Monaco,Monaco,1,9.0,43.7347,7.420560000000001
+72,1965-05-30,Graham,Hill,British,Circuit de Monaco,Monaco,1,9.0,43.7347,7.420560000000001
+73,1964-05-10,Graham,Hill,British,Circuit de Monaco,Monaco,3,9.0,43.7347,7.420560000000001
+74,1963-05-26,Graham,Hill,British,Circuit de Monaco,Monaco,2,9.0,43.7347,7.420560000000001
+75,1962-06-03,Bruce,McLaren,New Zealander,Circuit de Monaco,Monaco,3,9.0,43.7347,7.420560000000001
+76,1961-05-14,Stirling,Moss,British,Circuit de Monaco,Monaco,1,9.0,43.7347,7.420560000000001
+77,1960-05-29,Stirling,Moss,British,Circuit de Monaco,Monaco,1,8.0,43.7347,7.420560000000001
+78,1956-05-13,Stirling,Moss,British,Circuit de Monaco,Monaco,2,8.0,43.7347,7.420560000000001
+79,1958-05-18,Maurice,Trintignant,French,Circuit de Monaco,Monaco,5,8.0,43.7347,7.420560000000001
+80,1955-05-22,Maurice,Trintignant,French,Circuit de Monaco,Monaco,9,8.0,43.7347,7.420560000000001
+81,1957-05-19,Juan,Fangio,Argentine,Circuit de Monaco,Monaco,1,9.0,43.7347,7.420560000000001
+82,1950-05-21,Juan,Fangio,Argentine,Circuit de Monaco,Monaco,1,9.0,43.7347,7.420560000000001
+83,2013-05-26,Nico,Rosberg,German,Circuit de Monaco,Monaco,1,25.0,43.7347,7.420560000000001
+84,2014-05-25,Nico,Rosberg,German,Circuit de Monaco,Monaco,1,25.0,43.7347,7.420560000000001
+85,2015-05-24,Nico,Rosberg,German,Circuit de Monaco,Monaco,2,25.0,43.7347,7.420560000000001
+86,2008-07-06,Lewis,Hamilton,British,Silverstone Circuit,UK,4,10.0,52.0786,-1.01694
+87,2014-07-06,Lewis,Hamilton,British,Silverstone Circuit,UK,6,25.0,52.0786,-1.01694
+88,2015-07-05,Lewis,Hamilton,British,Silverstone Circuit,UK,1,25.0,52.0786,-1.01694
+89,2016-07-10,Lewis,Hamilton,British,Silverstone Circuit,UK,1,25.0,52.0786,-1.01694
+90,2017-07-16,Lewis,Hamilton,British,Silverstone Circuit,UK,1,25.0,52.0786,-1.01694
+91,2007-07-08,Kimi,RÌ_ikkÌ¦nen,Finnish,Silverstone Circuit,UK,2,10.0,52.0786,-1.01694
+92,2009-06-21,Sebastian,Vettel,German,Silverstone Circuit,UK,1,10.0,52.0786,-1.01694
+93,2006-06-11,Fernando,Alonso,Spanish,Silverstone Circuit,UK,1,10.0,52.0786,-1.01694
+94,2011-07-10,Fernando,Alonso,Spanish,Silverstone Circuit,UK,3,25.0,52.0786,-1.01694
+95,2004-07-11,Michael,Schumacher,German,Silverstone Circuit,UK,4,10.0,52.0786,-1.01694
+96,2002-07-07,Michael,Schumacher,German,Silverstone Circuit,UK,3,10.0,52.0786,-1.01694
+97,1998-07-12,Michael,Schumacher,German,Silverstone Circuit,UK,2,10.0,52.0786,-1.01694
+98,2005-07-10,Juan,Pablo Montoya,Colombian,Silverstone Circuit,UK,3,10.0,52.0786,-1.01694
+99,2003-07-20,Rubens,Barrichello,Brazilian,Silverstone Circuit,UK,1,10.0,52.0786,-1.01694
+100,2000-04-23,David,Coulthard,British,Silverstone Circuit,UK,4,10.0,52.0786,-1.01694
+101,1999-07-11,David,Coulthard,British,Silverstone Circuit,UK,3,10.0,52.0786,-1.01694
+102,2001-07-15,Mika,HÌ_kkinen,Finnish,Silverstone Circuit,UK,2,10.0,52.0786,-1.01694
+103,1995-07-16,Johnny,Herbert,British,Silverstone Circuit,UK,5,10.0,52.0786,-1.01694
+104,1994-07-10,Damon,Hill,British,Silverstone Circuit,UK,1,10.0,52.0786,-1.01694
+105,1997-07-13,Jacques,Villeneuve,Canadian,Silverstone Circuit,UK,1,10.0,52.0786,-1.01694
+106,1996-07-14,Jacques,Villeneuve,Canadian,Silverstone Circuit,UK,2,10.0,52.0786,-1.01694
+107,1992-07-12,Nigel,Mansell,British,Silverstone Circuit,UK,1,10.0,52.0786,-1.01694
+108,1991-07-14,Nigel,Mansell,British,Silverstone Circuit,UK,1,10.0,52.0786,-1.01694
+109,1987-07-12,Nigel,Mansell,British,Silverstone Circuit,UK,2,9.0,52.0786,-1.01694
+110,1993-07-11,Alain,Prost,French,Silverstone Circuit,UK,1,10.0,52.0786,-1.01694
+111,1990-07-15,Alain,Prost,French,Silverstone Circuit,UK,5,9.0,52.0786,-1.01694
+112,1989-07-16,Alain,Prost,French,Silverstone Circuit,UK,2,9.0,52.0786,-1.01694
+113,1985-07-21,Alain,Prost,French,Silverstone Circuit,UK,3,9.0,52.0786,-1.01694
+114,1983-07-16,Alain,Prost,French,Silverstone Circuit,UK,3,9.0,52.0786,-1.01694
+115,1988-07-10,Ayrton,Senna,Brazilian,Silverstone Circuit,UK,3,9.0,52.0786,-1.01694
+116,2010-07-11,Mark,Webber,Australian,Silverstone Circuit,UK,2,25.0,52.0786,-1.01694
+117,2012-07-08,Mark,Webber,Australian,Silverstone Circuit,UK,2,25.0,52.0786,-1.01694
+118,1981-07-18,John,Watson,British,Silverstone Circuit,UK,5,9.0,52.0786,-1.01694
+119,1979-07-14,Clay,Regazzoni,Swiss,Silverstone Circuit,UK,4,9.0,52.0786,-1.01694
+120,1977-07-16,James,Hunt,British,Silverstone Circuit,UK,1,9.0,52.0786,-1.01694
+121,1975-07-19,Emerson,Fittipaldi,Brazilian,Silverstone Circuit,UK,7,9.0,52.0786,-1.01694
+122,1971-07-17,Jackie,Stewart,British,Silverstone Circuit,UK,2,9.0,52.0786,-1.01694
+123,1969-07-19,Jackie,Stewart,British,Silverstone Circuit,UK,2,9.0,52.0786,-1.01694
+124,1973-07-14,Peter,Revson,American,Silverstone Circuit,UK,3,9.0,52.0786,-1.01694
+125,1960-07-16,Jack,Brabham,Australian,Silverstone Circuit,UK,1,8.0,52.0786,-1.01694
+126,1967-07-15,Jim,Clark,British,Silverstone Circuit,UK,1,9.0,52.0786,-1.01694
+127,1965-07-10,Jim,Clark,British,Silverstone Circuit,UK,1,9.0,52.0786,-1.01694
+128,1963-07-20,Jim,Clark,British,Silverstone Circuit,UK,1,9.0,52.0786,-1.01694
+129,1958-07-19,Peter,Collins,British,Silverstone Circuit,UK,6,8.0,52.0786,-1.01694
+130,1956-07-14,Juan,Fangio,Argentine,Silverstone Circuit,UK,2,8.0,52.0786,-1.01694
+131,1954-07-17,JosÌ© FroilÌÁn,GonzÌÁlez,Argentine,Silverstone Circuit,UK,2,8.14,52.0786,-1.01694
+132,1951-07-14,JosÌ© FroilÌÁn,GonzÌÁlez,Argentine,Silverstone Circuit,UK,1,8.0,52.0786,-1.01694
+133,1953-07-18,Alberto,Ascari,Italian,Silverstone Circuit,UK,1,8.5,52.0786,-1.01694
+134,1952-07-19,Alberto,Ascari,Italian,Silverstone Circuit,UK,2,9.0,52.0786,-1.01694
+135,1950-05-13,Nino,Farina,Italian,Silverstone Circuit,UK,1,9.0,52.0786,-1.01694
+136,2013-06-30,Nico,Rosberg,German,Silverstone Circuit,UK,2,25.0,52.0786,-1.01694
+137,2008-07-20,Lewis,Hamilton,British,Hockenheimring,Germany,1,10.0,49.3278,8.56583
+138,2016-07-31,Lewis,Hamilton,British,Hockenheimring,Germany,2,25.0,49.3278,8.56583
+139,2005-07-24,Fernando,Alonso,Spanish,Hockenheimring,Germany,3,10.0,49.3278,8.56583
+140,2010-07-25,Fernando,Alonso,Spanish,Hockenheimring,Germany,2,25.0,49.3278,8.56583
+141,2012-07-22,Fernando,Alonso,Spanish,Hockenheimring,Germany,1,25.0,49.3278,8.56583
+142,2006-07-30,Michael,Schumacher,German,Hockenheimring,Germany,2,10.0,49.3278,8.56583
+143,2004-07-25,Michael,Schumacher,German,Hockenheimring,Germany,1,10.0,49.3278,8.56583
+144,2002-07-28,Michael,Schumacher,German,Hockenheimring,Germany,1,10.0,49.3278,8.56583
+145,1995-07-30,Michael,Schumacher,German,Hockenheimring,Germany,2,10.0,49.3278,8.56583
+146,2003-08-03,Juan,Pablo Montoya,Colombian,Hockenheimring,Germany,1,10.0,49.3278,8.56583
+147,2000-07-30,Rubens,Barrichello,Brazilian,Hockenheimring,Germany,18,10.0,49.3278,8.56583
+148,2001-07-29,Ralf,Schumacher,German,Hockenheimring,Germany,2,10.0,49.3278,8.56583
+149,1998-08-02,Mika,HÌ_kkinen,Finnish,Hockenheimring,Germany,1,10.0,49.3278,8.56583
+150,1999-08-01,Eddie,Irvine,British,Hockenheimring,Germany,5,10.0,49.3278,8.56583
+151,1996-07-28,Damon,Hill,British,Hockenheimring,Germany,1,10.0,49.3278,8.56583
+152,1997-07-27,Gerhard,Berger,Austrian,Hockenheimring,Germany,1,10.0,49.3278,8.56583
+153,1994-07-31,Gerhard,Berger,Austrian,Hockenheimring,Germany,1,10.0,49.3278,8.56583
+154,1992-07-26,Nigel,Mansell,British,Hockenheimring,Germany,1,10.0,49.3278,8.56583
+155,1991-07-28,Nigel,Mansell,British,Hockenheimring,Germany,1,10.0,49.3278,8.56583
+156,1993-07-25,Alain,Prost,French,Hockenheimring,Germany,1,10.0,49.3278,8.56583
+157,1984-08-05,Alain,Prost,French,Hockenheimring,Germany,1,9.0,49.3278,8.56583
+158,1990-07-29,Ayrton,Senna,Brazilian,Hockenheimring,Germany,1,9.0,49.3278,8.56583
+159,1989-07-30,Ayrton,Senna,Brazilian,Hockenheimring,Germany,1,9.0,49.3278,8.56583
+160,1988-07-24,Ayrton,Senna,Brazilian,Hockenheimring,Germany,1,9.0,49.3278,8.56583
+161,1987-07-26,Nelson,Piquet,Brazilian,Hockenheimring,Germany,4,9.0,49.3278,8.56583
+162,1986-07-27,Nelson,Piquet,Brazilian,Hockenheimring,Germany,5,9.0,49.3278,8.56583
+163,1981-08-02,Nelson,Piquet,Brazilian,Hockenheimring,Germany,6,9.0,49.3278,8.56583
+164,1977-07-31,Niki,Lauda,Austrian,Hockenheimring,Germany,3,9.0,49.3278,8.56583
+165,1982-08-08,Patrick,Tambay,French,Hockenheimring,Germany,5,9.0,49.3278,8.56583
+166,1983-08-07,RenÌ©,Arnoux,French,Hockenheimring,Germany,2,9.0,49.3278,8.56583
+167,1979-07-29,Alan,Jones,Australian,Hockenheimring,Germany,2,9.0,49.3278,8.56583
+168,1980-08-10,Jacques,Laffite,French,Hockenheimring,Germany,5,9.0,49.3278,8.56583
+169,1978-07-30,Mario,Andretti,American,Hockenheimring,Germany,1,9.0,49.3278,8.56583
+170,1970-08-02,Jochen,Rindt,Austrian,Hockenheimring,Germany,2,9.0,49.3278,8.56583
+171,2014-07-20,Nico,Rosberg,German,Hockenheimring,Germany,1,25.0,49.3278,8.56583
+172,2008-10-19,Lewis,Hamilton,British,Shanghai International Circuit,China,1,10.0,31.3389,121.22
+173,2011-04-17,Lewis,Hamilton,British,Shanghai International Circuit,China,3,25.0,31.3389,121.22
+174,2014-04-20,Lewis,Hamilton,British,Shanghai International Circuit,China,1,25.0,31.3389,121.22
+175,2015-04-12,Lewis,Hamilton,British,Shanghai International Circuit,China,1,25.0,31.3389,121.22
+176,2017-04-09,Lewis,Hamilton,British,Shanghai International Circuit,China,1,25.0,31.3389,121.22
+177,2007-10-07,Kimi,RÌ_ikkÌ¦nen,Finnish,Shanghai International Circuit,China,2,10.0,31.3389,121.22
+178,2009-04-19,Sebastian,Vettel,German,Shanghai International Circuit,China,1,10.0,31.3389,121.22
+179,2005-10-16,Fernando,Alonso,Spanish,Shanghai International Circuit,China,1,10.0,31.3389,121.22
+180,2013-04-14,Fernando,Alonso,Spanish,Shanghai International Circuit,China,3,25.0,31.3389,121.22
+181,2006-10-01,Michael,Schumacher,German,Shanghai International Circuit,China,6,10.0,31.3389,121.22
+182,2010-04-18,Jenson,Button,British,Shanghai International Circuit,China,5,25.0,31.3389,121.22
+183,2004-09-26,Rubens,Barrichello,Brazilian,Shanghai International Circuit,China,1,10.0,31.3389,121.22
+184,2012-04-15,Nico,Rosberg,German,Shanghai International Circuit,China,1,25.0,31.3389,121.22
+185,2016-04-17,Nico,Rosberg,German,Shanghai International Circuit,China,1,25.0,31.3389,121.22
+186,2007-06-10,Lewis,Hamilton,British,Circuit Gilles Villeneuve,Canada,1,10.0,45.5,-73.5228
+187,2010-06-13,Lewis,Hamilton,British,Circuit Gilles Villeneuve,Canada,1,25.0,45.5,-73.5228
+188,2012-06-10,Lewis,Hamilton,British,Circuit Gilles Villeneuve,Canada,2,25.0,45.5,-73.5228
+189,2015-06-07,Lewis,Hamilton,British,Circuit Gilles Villeneuve,Canada,1,25.0,45.5,-73.5228
+190,2016-06-12,Lewis,Hamilton,British,Circuit Gilles Villeneuve,Canada,1,25.0,45.5,-73.5228
+191,2017-06-11,Lewis,Hamilton,British,Circuit Gilles Villeneuve,Canada,1,25.0,45.5,-73.5228
+192,2005-06-12,Kimi,RÌ_ikkÌ¦nen,Finnish,Circuit Gilles Villeneuve,Canada,7,10.0,45.5,-73.5228
+193,2008-06-08,Robert,Kubica,Polish,Circuit Gilles Villeneuve,Canada,2,10.0,45.5,-73.5228
+194,2013-06-09,Sebastian,Vettel,German,Circuit Gilles Villeneuve,Canada,1,25.0,45.5,-73.5228
+195,2006-06-25,Fernando,Alonso,Spanish,Circuit Gilles Villeneuve,Canada,1,10.0,45.5,-73.5228
+196,2004-06-13,Michael,Schumacher,German,Circuit Gilles Villeneuve,Canada,6,10.0,45.5,-73.5228
+197,2003-06-15,Michael,Schumacher,German,Circuit Gilles Villeneuve,Canada,3,10.0,45.5,-73.5228
+198,2002-06-09,Michael,Schumacher,German,Circuit Gilles Villeneuve,Canada,2,10.0,45.5,-73.5228
+199,2000-06-18,Michael,Schumacher,German,Circuit Gilles Villeneuve,Canada,1,10.0,45.5,-73.5228
+200,1998-06-07,Michael,Schumacher,German,Circuit Gilles Villeneuve,Canada,3,10.0,45.5,-73.5228
+201,1997-06-15,Michael,Schumacher,German,Circuit Gilles Villeneuve,Canada,1,10.0,45.5,-73.5228
+202,1994-06-12,Michael,Schumacher,German,Circuit Gilles Villeneuve,Canada,1,10.0,45.5,-73.5228
+203,2011-06-12,Jenson,Button,British,Circuit Gilles Villeneuve,Canada,7,25.0,45.5,-73.5228
+204,2001-06-10,Ralf,Schumacher,German,Circuit Gilles Villeneuve,Canada,2,10.0,45.5,-73.5228
+205,1999-06-13,Mika,HÌ_kkinen,Finnish,Circuit Gilles Villeneuve,Canada,2,10.0,45.5,-73.5228
+206,1996-06-16,Damon,Hill,British,Circuit Gilles Villeneuve,Canada,1,10.0,45.5,-73.5228
+207,1992-06-14,Gerhard,Berger,Austrian,Circuit Gilles Villeneuve,Canada,4,10.0,45.5,-73.5228
+208,1995-06-11,Jean,Alesi,French,Circuit Gilles Villeneuve,Canada,5,10.0,45.5,-73.5228
+209,1986-06-15,Nigel,Mansell,British,Circuit Gilles Villeneuve,Canada,1,9.0,45.5,-73.5228
+210,1993-06-13,Alain,Prost,French,Circuit Gilles Villeneuve,Canada,1,10.0,45.5,-73.5228
+211,1990-06-10,Ayrton,Senna,Brazilian,Circuit Gilles Villeneuve,Canada,1,9.0,45.5,-73.5228
+212,1988-06-12,Ayrton,Senna,Brazilian,Circuit Gilles Villeneuve,Canada,1,9.0,45.5,-73.5228
+213,1991-06-02,Nelson,Piquet,Brazilian,Circuit Gilles Villeneuve,Canada,8,10.0,45.5,-73.5228
+214,1984-06-17,Nelson,Piquet,Brazilian,Circuit Gilles Villeneuve,Canada,1,9.0,45.5,-73.5228
+215,1982-06-13,Nelson,Piquet,Brazilian,Circuit Gilles Villeneuve,Canada,4,9.0,45.5,-73.5228
+216,1989-06-18,Thierry,Boutsen,Belgian,Circuit Gilles Villeneuve,Canada,6,9.0,45.5,-73.5228
+217,1985-06-16,Michele,Alboreto,Italian,Circuit Gilles Villeneuve,Canada,3,9.0,45.5,-73.5228
+218,1983-06-12,RenÌ©,Arnoux,French,Circuit Gilles Villeneuve,Canada,1,9.0,45.5,-73.5228
+219,1980-09-28,Alan,Jones,Australian,Circuit Gilles Villeneuve,Canada,2,9.0,45.5,-73.5228
+220,1979-09-30,Alan,Jones,Australian,Circuit Gilles Villeneuve,Canada,1,9.0,45.5,-73.5228
+221,1978-10-08,Gilles,Villeneuve,Canadian,Circuit Gilles Villeneuve,Canada,3,9.0,45.5,-73.5228
+222,1981-09-27,Jacques,Laffite,French,Circuit Gilles Villeneuve,Canada,10,9.0,45.5,-73.5228
+223,2014-06-08,Daniel,Ricciardo,Australian,Circuit Gilles Villeneuve,Canada,6,25.0,45.5,-73.5228
+224,2007-06-17,Lewis,Hamilton,British,Indianapolis Motor Speedway,USA,1,10.0,39.795,-86.2347
+225,2006-07-02,Michael,Schumacher,German,Indianapolis Motor Speedway,USA,1,10.0,39.795,-86.2347
+226,2005-06-19,Michael,Schumacher,German,Indianapolis Motor Speedway,USA,5,10.0,39.795,-86.2347
+227,2004-06-20,Michael,Schumacher,German,Indianapolis Motor Speedway,USA,2,10.0,39.795,-86.2347
+228,2003-09-28,Michael,Schumacher,German,Indianapolis Motor Speedway,USA,7,10.0,39.795,-86.2347
+229,2000-09-24,Michael,Schumacher,German,Indianapolis Motor Speedway,USA,1,10.0,39.795,-86.2347
+230,2002-09-29,Rubens,Barrichello,Brazilian,Indianapolis Motor Speedway,USA,2,10.0,39.795,-86.2347
+231,2001-09-30,Mika,HÌ_kkinen,Finnish,Indianapolis Motor Speedway,USA,4,10.0,39.795,-86.2347
+232,1960-05-30,Jim,Rathmann,American,Indianapolis Motor Speedway,USA,2,8.0,39.795,-86.2347
+233,1959-05-30,Rodger,Ward,American,Indianapolis Motor Speedway,USA,6,8.0,39.795,-86.2347
+234,1958-05-30,Jimmy,Bryan,American,Indianapolis Motor Speedway,USA,7,8.0,39.795,-86.2347
+235,1957-05-30,Sam,Hanks,American,Indianapolis Motor Speedway,USA,13,8.0,39.795,-86.2347
+236,1956-05-30,Pat,Flaherty,American,Indianapolis Motor Speedway,USA,1,8.0,39.795,-86.2347
+237,1955-05-30,Bob,Sweikert,American,Indianapolis Motor Speedway,USA,14,8.0,39.795,-86.2347
+238,1954-05-31,Bill,Vukovich,American,Indianapolis Motor Speedway,USA,19,8.0,39.795,-86.2347
+239,1953-05-30,Bill,Vukovich,American,Indianapolis Motor Speedway,USA,1,9.0,39.795,-86.2347
+240,1952-05-30,Troy,Ruttman,American,Indianapolis Motor Speedway,USA,7,8.0,39.795,-86.2347
+241,1951-05-30,Lee,Wallard,American,Indianapolis Motor Speedway,USA,2,9.0,39.795,-86.2347
+242,1950-05-30,Johnnie,Parsons,American,Indianapolis Motor Speedway,USA,5,9.0,39.795,-86.2347
+243,2007-08-05,Lewis,Hamilton,British,Hungaroring,Hungary,1,10.0,47.5789,19.2486
+244,2009-07-26,Lewis,Hamilton,British,Hungaroring,Hungary,4,10.0,47.5789,19.2486
+245,2012-07-29,Lewis,Hamilton,British,Hungaroring,Hungary,1,25.0,47.5789,19.2486
+246,2013-07-28,Lewis,Hamilton,British,Hungaroring,Hungary,1,25.0,47.5789,19.2486
+247,2016-07-24,Lewis,Hamilton,British,Hungaroring,Hungary,2,25.0,47.5789,19.2486
+248,2005-07-31,Kimi,RÌ_ikkÌ¦nen,Finnish,Hungaroring,Hungary,4,10.0,47.5789,19.2486
+249,2008-08-03,Heikki,Kovalainen,Finnish,Hungaroring,Hungary,2,10.0,47.5789,19.2486
+250,2015-07-26,Sebastian,Vettel,German,Hungaroring,Hungary,3,25.0,47.5789,19.2486
+251,2017-07-30,Sebastian,Vettel,German,Hungaroring,Hungary,1,25.0,47.5789,19.2486
+252,2003-08-24,Fernando,Alonso,Spanish,Hungaroring,Hungary,1,10.0,47.5789,19.2486
+253,2004-08-15,Michael,Schumacher,German,Hungaroring,Hungary,1,10.0,47.5789,19.2486
+254,2001-08-19,Michael,Schumacher,German,Hungaroring,Hungary,1,10.0,47.5789,19.2486
+255,1998-08-16,Michael,Schumacher,German,Hungaroring,Hungary,3,10.0,47.5789,19.2486
+256,1994-08-14,Michael,Schumacher,German,Hungaroring,Hungary,1,10.0,47.5789,19.2486
+257,2006-08-06,Jenson,Button,British,Hungaroring,Hungary,14,10.0,47.5789,19.2486
+258,2011-07-31,Jenson,Button,British,Hungaroring,Hungary,3,25.0,47.5789,19.2486
+259,2002-08-18,Rubens,Barrichello,Brazilian,Hungaroring,Hungary,1,10.0,47.5789,19.2486
+260,2000-08-13,Mika,HÌ_kkinen,Finnish,Hungaroring,Hungary,3,10.0,47.5789,19.2486
+261,1999-08-15,Mika,HÌ_kkinen,Finnish,Hungaroring,Hungary,1,10.0,47.5789,19.2486
+262,1995-08-13,Damon,Hill,British,Hungaroring,Hungary,1,10.0,47.5789,19.2486
+263,1993-08-15,Damon,Hill,British,Hungaroring,Hungary,2,10.0,47.5789,19.2486
+264,1997-08-10,Jacques,Villeneuve,Canadian,Hungaroring,Hungary,2,10.0,47.5789,19.2486
+265,1996-08-11,Jacques,Villeneuve,Canadian,Hungaroring,Hungary,3,10.0,47.5789,19.2486
+266,1989-08-13,Nigel,Mansell,British,Hungaroring,Hungary,12,9.0,47.5789,19.2486
+267,1992-08-16,Ayrton,Senna,Brazilian,Hungaroring,Hungary,3,10.0,47.5789,19.2486
+268,1991-08-11,Ayrton,Senna,Brazilian,Hungaroring,Hungary,1,10.0,47.5789,19.2486
+269,1988-08-07,Ayrton,Senna,Brazilian,Hungaroring,Hungary,1,9.0,47.5789,19.2486
+270,1987-08-09,Nelson,Piquet,Brazilian,Hungaroring,Hungary,3,9.0,47.5789,19.2486
+271,1986-08-10,Nelson,Piquet,Brazilian,Hungaroring,Hungary,2,9.0,47.5789,19.2486
+272,1990-08-12,Thierry,Boutsen,Belgian,Hungaroring,Hungary,1,9.0,47.5789,19.2486
+273,2010-08-01,Mark,Webber,Australian,Hungaroring,Hungary,2,25.0,47.5789,19.2486
+274,2014-07-27,Daniel,Ricciardo,Australian,Hungaroring,Hungary,4,25.0,47.5789,19.2486
+275,2007-09-30,Lewis,Hamilton,British,Fuji Speedway,Japan,1,10.0,35.3717,138.92700000000002
+276,2008-10-12,Fernando,Alonso,Spanish,Fuji Speedway,Japan,4,10.0,35.3717,138.92700000000002
+277,1976-10-24,Mario,Andretti,American,Fuji Speedway,Japan,1,9.0,35.3717,138.92700000000002
+278,1977-10-23,James,Hunt,British,Fuji Speedway,Japan,2,9.0,35.3717,138.92700000000002
+279,2009-09-27,Lewis,Hamilton,British,Marina Bay Street Circuit,Singapore,1,10.0,1.2914,103.86399999999999
+280,2014-09-21,Lewis,Hamilton,British,Marina Bay Street Circuit,Singapore,1,25.0,1.2914,103.86399999999999
+281,2017-09-17,Lewis,Hamilton,British,Marina Bay Street Circuit,Singapore,5,25.0,1.2914,103.86399999999999
+282,2011-09-25,Sebastian,Vettel,German,Marina Bay Street Circuit,Singapore,1,25.0,1.2914,103.86399999999999
+283,2012-09-23,Sebastian,Vettel,German,Marina Bay Street Circuit,Singapore,3,25.0,1.2914,103.86399999999999
+284,2013-09-22,Sebastian,Vettel,German,Marina Bay Street Circuit,Singapore,1,25.0,1.2914,103.86399999999999
+285,2015-09-20,Sebastian,Vettel,German,Marina Bay Street Circuit,Singapore,1,25.0,1.2914,103.86399999999999
+286,2008-09-28,Fernando,Alonso,Spanish,Marina Bay Street Circuit,Singapore,15,10.0,1.2914,103.86399999999999
+287,2010-09-26,Fernando,Alonso,Spanish,Marina Bay Street Circuit,Singapore,1,25.0,1.2914,103.86399999999999
+288,2016-09-18,Nico,Rosberg,German,Marina Bay Street Circuit,Singapore,1,25.0,1.2914,103.86399999999999
+289,2010-05-30,Lewis,Hamilton,British,Istanbul Park,Turkey,2,25.0,40.9517,29.405
+290,2005-08-21,Kimi,RÌ_ikkÌ¦nen,Finnish,Istanbul Park,Turkey,1,10.0,40.9517,29.405
+291,2008-05-11,Felipe,Massa,Brazilian,Istanbul Park,Turkey,1,10.0,40.9517,29.405
+292,2007-08-26,Felipe,Massa,Brazilian,Istanbul Park,Turkey,1,10.0,40.9517,29.405
+293,2006-08-27,Felipe,Massa,Brazilian,Istanbul Park,Turkey,1,10.0,40.9517,29.405
+294,2011-05-08,Sebastian,Vettel,German,Istanbul Park,Turkey,1,25.0,40.9517,29.405
+295,2009-06-07,Jenson,Button,British,Istanbul Park,Turkey,2,10.0,40.9517,29.405
+296,2010-08-29,Lewis,Hamilton,British,Circuit de Spa-Francorchamps,Belgium,2,25.0,50.4372,5.97139
+297,2015-08-23,Lewis,Hamilton,British,Circuit de Spa-Francorchamps,Belgium,1,25.0,50.4372,5.97139
+298,2017-08-27,Lewis,Hamilton,British,Circuit de Spa-Francorchamps,Belgium,1,25.0,50.4372,5.97139
+299,2007-09-16,Kimi,RÌ_ikkÌ¦nen,Finnish,Circuit de Spa-Francorchamps,Belgium,1,10.0,50.4372,5.97139
+300,2005-09-11,Kimi,RÌ_ikkÌ¦nen,Finnish,Circuit de Spa-Francorchamps,Belgium,2,10.0,50.4372,5.97139
+301,2004-08-29,Kimi,RÌ_ikkÌ¦nen,Finnish,Circuit de Spa-Francorchamps,Belgium,10,10.0,50.4372,5.97139
+302,2009-08-30,Kimi,RÌ_ikkÌ¦nen,Finnish,Circuit de Spa-Francorchamps,Belgium,6,10.0,50.4372,5.97139
+303,2008-09-07,Felipe,Massa,Brazilian,Circuit de Spa-Francorchamps,Belgium,2,10.0,50.4372,5.97139
+304,2011-08-28,Sebastian,Vettel,German,Circuit de Spa-Francorchamps,Belgium,1,25.0,50.4372,5.97139
+305,2013-08-25,Sebastian,Vettel,German,Circuit de Spa-Francorchamps,Belgium,2,25.0,50.4372,5.97139
+306,2002-09-01,Michael,Schumacher,German,Circuit de Spa-Francorchamps,Belgium,1,10.0,50.4372,5.97139
+307,2001-09-02,Michael,Schumacher,German,Circuit de Spa-Francorchamps,Belgium,3,10.0,50.4372,5.97139
+308,1997-08-24,Michael,Schumacher,German,Circuit de Spa-Francorchamps,Belgium,3,10.0,50.4372,5.97139
+309,1996-08-25,Michael,Schumacher,German,Circuit de Spa-Francorchamps,Belgium,3,10.0,50.4372,5.97139
+310,1995-08-27,Michael,Schumacher,German,Circuit de Spa-Francorchamps,Belgium,16,10.0,50.4372,5.97139
+311,1992-08-30,Michael,Schumacher,German,Circuit de Spa-Francorchamps,Belgium,3,10.0,50.4372,5.97139
+312,2012-09-02,Jenson,Button,British,Circuit de Spa-Francorchamps,Belgium,1,25.0,50.4372,5.97139
+313,1999-08-29,David,Coulthard,British,Circuit de Spa-Francorchamps,Belgium,2,10.0,50.4372,5.97139
+314,2000-08-27,Mika,HÌ_kkinen,Finnish,Circuit de Spa-Francorchamps,Belgium,1,10.0,50.4372,5.97139
+315,1998-08-30,Damon,Hill,British,Circuit de Spa-Francorchamps,Belgium,3,10.0,50.4372,5.97139
+316,1994-08-28,Damon,Hill,British,Circuit de Spa-Francorchamps,Belgium,3,10.0,50.4372,5.97139
+317,1993-08-29,Damon,Hill,British,Circuit de Spa-Francorchamps,Belgium,2,10.0,50.4372,5.97139
+318,1986-05-25,Nigel,Mansell,British,Circuit de Spa-Francorchamps,Belgium,5,9.0,50.4372,5.97139
+319,1987-05-17,Alain,Prost,French,Circuit de Spa-Francorchamps,Belgium,6,9.0,50.4372,5.97139
+320,1983-05-22,Alain,Prost,French,Circuit de Spa-Francorchamps,Belgium,1,9.0,50.4372,5.97139
+321,1991-08-25,Ayrton,Senna,Brazilian,Circuit de Spa-Francorchamps,Belgium,1,10.0,50.4372,5.97139
+322,1990-08-26,Ayrton,Senna,Brazilian,Circuit de Spa-Francorchamps,Belgium,1,9.0,50.4372,5.97139
+323,1989-08-27,Ayrton,Senna,Brazilian,Circuit de Spa-Francorchamps,Belgium,1,9.0,50.4372,5.97139
+324,1988-08-28,Ayrton,Senna,Brazilian,Circuit de Spa-Francorchamps,Belgium,1,9.0,50.4372,5.97139
+325,1985-09-15,Ayrton,Senna,Brazilian,Circuit de Spa-Francorchamps,Belgium,2,9.0,50.4372,5.97139
+326,1960-06-19,Jack,Brabham,Australian,Circuit de Spa-Francorchamps,Belgium,1,8.0,50.4372,5.97139
+327,1970-06-07,Pedro,RodrÌ_guez,Mexican,Circuit de Spa-Francorchamps,Belgium,6,9.0,50.4372,5.97139
+328,1965-06-13,Jim,Clark,British,Circuit de Spa-Francorchamps,Belgium,2,9.0,50.4372,5.97139
+329,1964-06-14,Jim,Clark,British,Circuit de Spa-Francorchamps,Belgium,6,9.0,50.4372,5.97139
+330,1963-06-09,Jim,Clark,British,Circuit de Spa-Francorchamps,Belgium,8,9.0,50.4372,5.97139
+331,1962-06-17,Jim,Clark,British,Circuit de Spa-Francorchamps,Belgium,13,9.0,50.4372,5.97139
+332,1968-06-09,Bruce,McLaren,New Zealander,Circuit de Spa-Francorchamps,Belgium,6,9.0,50.4372,5.97139
+333,1967-06-18,Dan,Gurney,American,Circuit de Spa-Francorchamps,Belgium,2,9.0,50.4372,5.97139
+334,1966-06-12,John,Surtees,British,Circuit de Spa-Francorchamps,Belgium,1,9.0,50.4372,5.97139
+335,1961-06-18,Phil,Hill,American,Circuit de Spa-Francorchamps,Belgium,1,9.0,50.4372,5.97139
+336,1958-06-15,Tony,Brooks,British,Circuit de Spa-Francorchamps,Belgium,5,8.0,50.4372,5.97139
+337,1956-06-03,Peter,Collins,British,Circuit de Spa-Francorchamps,Belgium,3,8.0,50.4372,5.97139
+338,1955-06-05,Juan,Fangio,Argentine,Circuit de Spa-Francorchamps,Belgium,2,9.0,50.4372,5.97139
+339,1954-06-20,Juan,Fangio,Argentine,Circuit de Spa-Francorchamps,Belgium,1,9.0,50.4372,5.97139
+340,1950-06-18,Juan,Fangio,Argentine,Circuit de Spa-Francorchamps,Belgium,2,8.0,50.4372,5.97139
+341,1953-06-21,Alberto,Ascari,Italian,Circuit de Spa-Francorchamps,Belgium,2,8.0,50.4372,5.97139
+342,1952-06-22,Alberto,Ascari,Italian,Circuit de Spa-Francorchamps,Belgium,1,9.0,50.4372,5.97139
+343,1951-06-17,Nino,Farina,Italian,Circuit de Spa-Francorchamps,Belgium,2,8.0,50.4372,5.97139
+344,2016-08-28,Nico,Rosberg,German,Circuit de Spa-Francorchamps,Belgium,1,25.0,50.4372,5.97139
+345,2014-08-24,Daniel,Ricciardo,Australian,Circuit de Spa-Francorchamps,Belgium,5,25.0,50.4372,5.97139
+346,2011-07-24,Lewis,Hamilton,British,NÌ_rburgring,Germany,2,25.0,50.3356,6.9475
+347,2013-07-07,Sebastian,Vettel,German,NÌ_rburgring,Germany,2,25.0,50.3356,6.9475
+348,2007-07-22,Fernando,Alonso,Spanish,NÌ_rburgring,Germany,2,10.0,50.3356,6.9475
+349,2005-05-29,Fernando,Alonso,Spanish,NÌ_rburgring,Germany,6,10.0,50.3356,6.9475
+350,2006-05-07,Michael,Schumacher,German,NÌ_rburgring,Germany,2,10.0,50.3356,6.9475
+351,2004-05-30,Michael,Schumacher,German,NÌ_rburgring,Germany,1,10.0,50.3356,6.9475
+352,2001-06-24,Michael,Schumacher,German,NÌ_rburgring,Germany,1,10.0,50.3356,6.9475
+353,2000-05-21,Michael,Schumacher,German,NÌ_rburgring,Germany,2,10.0,50.3356,6.9475
+354,1995-10-01,Michael,Schumacher,German,NÌ_rburgring,Germany,3,10.0,50.3356,6.9475
+355,2002-06-23,Rubens,Barrichello,Brazilian,NÌ_rburgring,Germany,4,10.0,50.3356,6.9475
+356,2003-06-29,Ralf,Schumacher,German,NÌ_rburgring,Germany,3,10.0,50.3356,6.9475
+357,1998-09-27,Mika,HÌ_kkinen,Finnish,NÌ_rburgring,Germany,3,10.0,50.3356,6.9475
+358,1999-09-26,Johnny,Herbert,British,NÌ_rburgring,Germany,14,10.0,50.3356,6.9475
+359,1997-09-28,Jacques,Villeneuve,Canadian,NÌ_rburgring,Germany,2,10.0,50.3356,6.9475
+360,1996-04-28,Jacques,Villeneuve,Canadian,NÌ_rburgring,Germany,2,10.0,50.3356,6.9475
+361,1984-10-07,Alain,Prost,French,NÌ_rburgring,Germany,2,9.0,50.3356,6.9475
+362,2009-07-12,Mark,Webber,Australian,NÌ_rburgring,Germany,1,10.0,50.3356,6.9475
+363,1985-08-04,Michele,Alboreto,Italian,NÌ_rburgring,Germany,8,9.0,50.3356,6.9475
+364,1975-08-03,Carlos,Reutemann,Argentine,NÌ_rburgring,Germany,10,9.0,50.3356,6.9475
+365,1974-08-04,Clay,Regazzoni,Swiss,NÌ_rburgring,Germany,2,9.0,50.3356,6.9475
+366,1976-08-01,James,Hunt,British,NÌ_rburgring,Germany,1,9.0,50.3356,6.9475
+367,1967-08-06,Denny,Hulme,New Zealander,NÌ_rburgring,Germany,2,9.0,50.3356,6.9475
+368,1973-08-05,Jackie,Stewart,British,NÌ_rburgring,Germany,1,9.0,50.3356,6.9475
+369,1971-08-01,Jackie,Stewart,British,NÌ_rburgring,Germany,1,9.0,50.3356,6.9475
+370,1968-08-04,Jackie,Stewart,British,NÌ_rburgring,Germany,6,9.0,50.3356,6.9475
+371,1972-07-30,Jacky,Ickx,Belgian,NÌ_rburgring,Germany,1,9.0,50.3356,6.9475
+372,1969-08-03,Jacky,Ickx,Belgian,NÌ_rburgring,Germany,1,9.0,50.3356,6.9475
+373,1966-08-07,Jack,Brabham,Australian,NÌ_rburgring,Germany,5,9.0,50.3356,6.9475
+374,1962-08-05,Graham,Hill,British,NÌ_rburgring,Germany,2,9.0,50.3356,6.9475
+375,1965-08-01,Jim,Clark,British,NÌ_rburgring,Germany,1,9.0,50.3356,6.9475
+376,1964-08-02,John,Surtees,British,NÌ_rburgring,Germany,1,9.0,50.3356,6.9475
+377,1963-08-04,John,Surtees,British,NÌ_rburgring,Germany,2,9.0,50.3356,6.9475
+378,1961-08-06,Stirling,Moss,British,NÌ_rburgring,Germany,3,9.0,50.3356,6.9475
+379,1958-08-03,Tony,Brooks,British,NÌ_rburgring,Germany,2,8.0,50.3356,6.9475
+380,1957-08-04,Juan,Fangio,Argentine,NÌ_rburgring,Germany,1,9.0,50.3356,6.9475
+381,1956-08-05,Juan,Fangio,Argentine,NÌ_rburgring,Germany,1,9.0,50.3356,6.9475
+382,1954-08-01,Juan,Fangio,Argentine,NÌ_rburgring,Germany,1,8.0,50.3356,6.9475
+383,1952-08-03,Alberto,Ascari,Italian,NÌ_rburgring,Germany,1,9.0,50.3356,6.9475
+384,1951-07-29,Alberto,Ascari,Italian,NÌ_rburgring,Germany,1,8.0,50.3356,6.9475
+385,1953-08-02,Nino,Farina,Italian,NÌ_rburgring,Germany,3,8.0,50.3356,6.9475
+386,2011-11-13,Lewis,Hamilton,British,Yas Marina Circuit,UAE,2,25.0,24.4672,54.6031
+387,2014-11-23,Lewis,Hamilton,British,Yas Marina Circuit,UAE,2,50.0,24.4672,54.6031
+388,2016-11-27,Lewis,Hamilton,British,Yas Marina Circuit,UAE,1,25.0,24.4672,54.6031
+389,2012-11-04,Kimi,RÌ_ikkÌ¦nen,Finnish,Yas Marina Circuit,UAE,4,25.0,24.4672,54.6031
+390,2009-11-01,Sebastian,Vettel,German,Yas Marina Circuit,UAE,2,10.0,24.4672,54.6031
+391,2010-11-14,Sebastian,Vettel,German,Yas Marina Circuit,UAE,1,25.0,24.4672,54.6031
+392,2013-11-03,Sebastian,Vettel,German,Yas Marina Circuit,UAE,2,25.0,24.4672,54.6031
+393,2015-11-29,Nico,Rosberg,German,Yas Marina Circuit,UAE,1,25.0,24.4672,54.6031
+394,2017-11-26,Valtteri,Bottas,Finnish,Yas Marina Circuit,UAE,1,25.0,24.4672,54.6031
+395,2012-09-09,Lewis,Hamilton,British,Autodromo Nazionale di Monza,Italy,1,25.0,45.6156,9.28111
+396,2014-09-07,Lewis,Hamilton,British,Autodromo Nazionale di Monza,Italy,1,25.0,45.6156,9.28111
+397,2015-09-06,Lewis,Hamilton,British,Autodromo Nazionale di Monza,Italy,1,25.0,45.6156,9.28111
+398,2017-09-03,Lewis,Hamilton,British,Autodromo Nazionale di Monza,Italy,1,25.0,45.6156,9.28111
+399,2008-09-14,Sebastian,Vettel,German,Autodromo Nazionale di Monza,Italy,1,10.0,45.6156,9.28111
+400,2011-09-11,Sebastian,Vettel,German,Autodromo Nazionale di Monza,Italy,1,25.0,45.6156,9.28111
+401,2013-09-08,Sebastian,Vettel,German,Autodromo Nazionale di Monza,Italy,1,25.0,45.6156,9.28111
+402,2007-09-09,Fernando,Alonso,Spanish,Autodromo Nazionale di Monza,Italy,1,10.0,45.6156,9.28111
+403,2010-09-12,Fernando,Alonso,Spanish,Autodromo Nazionale di Monza,Italy,1,25.0,45.6156,9.28111
+404,2006-09-10,Michael,Schumacher,German,Autodromo Nazionale di Monza,Italy,2,10.0,45.6156,9.28111
+405,2003-09-14,Michael,Schumacher,German,Autodromo Nazionale di Monza,Italy,1,10.0,45.6156,9.28111
+406,2000-09-10,Michael,Schumacher,German,Autodromo Nazionale di Monza,Italy,1,10.0,45.6156,9.28111
+407,1998-09-13,Michael,Schumacher,German,Autodromo Nazionale di Monza,Italy,1,10.0,45.6156,9.28111
+408,1996-09-08,Michael,Schumacher,German,Autodromo Nazionale di Monza,Italy,3,10.0,45.6156,9.28111
+409,2005-09-04,Juan,Pablo Montoya,Colombian,Autodromo Nazionale di Monza,Italy,1,10.0,45.6156,9.28111
+410,2001-09-16,Juan,Pablo Montoya,Colombian,Autodromo Nazionale di Monza,Italy,1,10.0,45.6156,9.28111
+411,2004-09-12,Rubens,Barrichello,Brazilian,Autodromo Nazionale di Monza,Italy,1,10.0,45.6156,9.28111
+412,2002-09-15,Rubens,Barrichello,Brazilian,Autodromo Nazionale di Monza,Italy,4,10.0,45.6156,9.28111
+413,2009-09-13,Rubens,Barrichello,Brazilian,Autodromo Nazionale di Monza,Italy,5,10.0,45.6156,9.28111
+414,1997-09-07,David,Coulthard,British,Autodromo Nazionale di Monza,Italy,6,10.0,45.6156,9.28111
+415,1999-09-12,Heinz-Harald,Frentzen,German,Autodromo Nazionale di Monza,Italy,2,10.0,45.6156,9.28111
+416,1995-09-10,Johnny,Herbert,British,Autodromo Nazionale di Monza,Italy,8,10.0,45.6156,9.28111
+417,1994-09-11,Damon,Hill,British,Autodromo Nazionale di Monza,Italy,3,10.0,45.6156,9.28111
+418,1993-09-12,Damon,Hill,British,Autodromo Nazionale di Monza,Italy,2,10.0,45.6156,9.28111
+419,1988-09-11,Gerhard,Berger,Austrian,Autodromo Nazionale di Monza,Italy,3,9.0,45.6156,9.28111
+420,1991-09-08,Nigel,Mansell,British,Autodromo Nazionale di Monza,Italy,2,10.0,45.6156,9.28111
+421,1989-09-10,Alain,Prost,French,Autodromo Nazionale di Monza,Italy,4,9.0,45.6156,9.28111
+422,1985-09-08,Alain,Prost,French,Autodromo Nazionale di Monza,Italy,5,9.0,45.6156,9.28111
+423,1981-09-13,Alain,Prost,French,Autodromo Nazionale di Monza,Italy,3,9.0,45.6156,9.28111
+424,1992-09-13,Ayrton,Senna,Brazilian,Autodromo Nazionale di Monza,Italy,2,10.0,45.6156,9.28111
+425,1990-09-09,Ayrton,Senna,Brazilian,Autodromo Nazionale di Monza,Italy,1,9.0,45.6156,9.28111
+426,1987-09-06,Nelson,Piquet,Brazilian,Autodromo Nazionale di Monza,Italy,1,9.0,45.6156,9.28111
+427,1986-09-07,Nelson,Piquet,Brazilian,Autodromo Nazionale di Monza,Italy,6,9.0,45.6156,9.28111
+428,1983-09-11,Nelson,Piquet,Brazilian,Autodromo Nazionale di Monza,Italy,4,9.0,45.6156,9.28111
+429,1984-09-09,Niki,Lauda,Austrian,Autodromo Nazionale di Monza,Italy,4,9.0,45.6156,9.28111
+430,1978-09-10,Niki,Lauda,Austrian,Autodromo Nazionale di Monza,Italy,4,9.0,45.6156,9.28111
+431,1982-09-12,RenÌ©,Arnoux,French,Autodromo Nazionale di Monza,Italy,6,9.0,45.6156,9.28111
+432,1979-09-09,Jody,Scheckter,South African,Autodromo Nazionale di Monza,Italy,3,9.0,45.6156,9.28111
+433,1975-09-07,Clay,Regazzoni,Swiss,Autodromo Nazionale di Monza,Italy,2,9.0,45.6156,9.28111
+434,1970-09-06,Clay,Regazzoni,Swiss,Autodromo Nazionale di Monza,Italy,3,9.0,45.6156,9.28111
+435,1977-09-11,Mario,Andretti,American,Autodromo Nazionale di Monza,Italy,4,9.0,45.6156,9.28111
+436,1976-09-12,Ronnie,Peterson,Swedish,Autodromo Nazionale di Monza,Italy,8,9.0,45.6156,9.28111
+437,1974-09-08,Ronnie,Peterson,Swedish,Autodromo Nazionale di Monza,Italy,7,9.0,45.6156,9.28111
+438,1973-09-09,Ronnie,Peterson,Swedish,Autodromo Nazionale di Monza,Italy,1,9.0,45.6156,9.28111
+439,1972-09-10,Emerson,Fittipaldi,Brazilian,Autodromo Nazionale di Monza,Italy,4,9.0,45.6156,9.28111
+440,1968-09-08,Denny,Hulme,New Zealander,Autodromo Nazionale di Monza,Italy,7,9.0,45.6156,9.28111
+441,1969-09-07,Jackie,Stewart,British,Autodromo Nazionale di Monza,Italy,3,9.0,45.6156,9.28111
+442,1965-09-12,Jackie,Stewart,British,Autodromo Nazionale di Monza,Italy,3,9.0,45.6156,9.28111
+443,1971-09-05,Peter,Gethin,British,Autodromo Nazionale di Monza,Italy,11,9.0,45.6156,9.28111
+444,1962-09-16,Graham,Hill,British,Autodromo Nazionale di Monza,Italy,2,9.0,45.6156,9.28111
+445,1963-09-08,Jim,Clark,British,Autodromo Nazionale di Monza,Italy,3,9.0,45.6156,9.28111
+446,1967-09-10,John,Surtees,British,Autodromo Nazionale di Monza,Italy,9,9.0,45.6156,9.28111
+447,1964-09-06,John,Surtees,British,Autodromo Nazionale di Monza,Italy,1,9.0,45.6156,9.28111
+448,1966-09-04,Ludovico,Scarfiotti,Italian,Autodromo Nazionale di Monza,Italy,2,9.0,45.6156,9.28111
+449,1959-09-13,Stirling,Moss,British,Autodromo Nazionale di Monza,Italy,1,8.0,45.6156,9.28111
+450,1957-09-08,Stirling,Moss,British,Autodromo Nazionale di Monza,Italy,2,8.0,45.6156,9.28111
+451,1956-09-02,Stirling,Moss,British,Autodromo Nazionale di Monza,Italy,6,9.0,45.6156,9.28111
+452,1961-09-10,Phil,Hill,American,Autodromo Nazionale di Monza,Italy,4,9.0,45.6156,9.28111
+453,1960-09-04,Phil,Hill,American,Autodromo Nazionale di Monza,Italy,1,8.0,45.6156,9.28111
+454,1958-09-07,Tony,Brooks,British,Autodromo Nazionale di Monza,Italy,2,8.0,45.6156,9.28111
+455,1955-09-11,Juan,Fangio,Argentine,Autodromo Nazionale di Monza,Italy,1,8.0,45.6156,9.28111
+456,1954-09-05,Juan,Fangio,Argentine,Autodromo Nazionale di Monza,Italy,1,8.0,45.6156,9.28111
+457,1953-09-13,Juan,Fangio,Argentine,Autodromo Nazionale di Monza,Italy,2,9.0,45.6156,9.28111
+458,1952-09-07,Alberto,Ascari,Italian,Autodromo Nazionale di Monza,Italy,1,8.5,45.6156,9.28111
+459,1951-09-16,Alberto,Ascari,Italian,Autodromo Nazionale di Monza,Italy,3,8.0,45.6156,9.28111
+460,1950-09-03,Nino,Farina,Italian,Autodromo Nazionale di Monza,Italy,3,8.0,45.6156,9.28111
+461,2016-09-04,Nico,Rosberg,German,Autodromo Nazionale di Monza,Italy,2,25.0,45.6156,9.28111
+462,2012-11-18,Lewis,Hamilton,British,Circuit of the Americas,USA,2,25.0,30.1328,-97.6411
+463,2014-11-02,Lewis,Hamilton,British,Circuit of the Americas,USA,2,25.0,30.1328,-97.6411
+464,2015-10-25,Lewis,Hamilton,British,Circuit of the Americas,USA,2,25.0,30.1328,-97.6411
+465,2016-10-23,Lewis,Hamilton,British,Circuit of the Americas,USA,1,25.0,30.1328,-97.6411
+466,2017-10-22,Lewis,Hamilton,British,Circuit of the Americas,USA,1,25.0,30.1328,-97.6411
+467,2013-11-17,Sebastian,Vettel,German,Circuit of the Americas,USA,1,25.0,30.1328,-97.6411
+468,2014-03-30,Lewis,Hamilton,British,Sepang International Circuit,Malaysia,1,25.0,2.76083,101.738
+469,2008-03-23,Kimi,RÌ_ikkÌ¦nen,Finnish,Sepang International Circuit,Malaysia,2,10.0,2.76083,101.738
+470,2003-03-23,Kimi,RÌ_ikkÌ¦nen,Finnish,Sepang International Circuit,Malaysia,7,10.0,2.76083,101.738
+471,2010-04-04,Sebastian,Vettel,German,Sepang International Circuit,Malaysia,3,25.0,2.76083,101.738
+472,2011-04-10,Sebastian,Vettel,German,Sepang International Circuit,Malaysia,1,25.0,2.76083,101.738
+473,2013-03-24,Sebastian,Vettel,German,Sepang International Circuit,Malaysia,1,25.0,2.76083,101.738
+474,2015-03-29,Sebastian,Vettel,German,Sepang International Circuit,Malaysia,2,25.0,2.76083,101.738
+475,2007-04-08,Fernando,Alonso,Spanish,Sepang International Circuit,Malaysia,2,10.0,2.76083,101.738
+476,2005-03-20,Fernando,Alonso,Spanish,Sepang International Circuit,Malaysia,1,10.0,2.76083,101.738
+477,2012-03-25,Fernando,Alonso,Spanish,Sepang International Circuit,Malaysia,8,25.0,2.76083,101.738
+478,2006-03-19,Giancarlo,Fisichella,Italian,Sepang International Circuit,Malaysia,1,10.0,2.76083,101.738
+479,2004-03-21,Michael,Schumacher,German,Sepang International Circuit,Malaysia,1,10.0,2.76083,101.738
+480,2001-03-18,Michael,Schumacher,German,Sepang International Circuit,Malaysia,1,10.0,2.76083,101.738
+481,2000-10-22,Michael,Schumacher,German,Sepang International Circuit,Malaysia,1,10.0,2.76083,101.738
+482,2009-04-05,Jenson,Button,British,Sepang International Circuit,Malaysia,1,5.0,2.76083,101.738
+483,2002-03-17,Ralf,Schumacher,German,Sepang International Circuit,Malaysia,4,10.0,2.76083,101.738
+484,1999-10-17,Eddie,Irvine,British,Sepang International Circuit,Malaysia,2,10.0,2.76083,101.738
+485,2016-10-02,Daniel,Ricciardo,Australian,Sepang International Circuit,Malaysia,4,25.0,2.76083,101.738
+486,2017-10-01,Max,Verstappen,Dutch,Sepang International Circuit,Malaysia,3,25.0,2.76083,101.738
+487,2014-04-06,Lewis,Hamilton,British,Bahrain International Circuit,Bahrain,2,25.0,26.0325,50.5106
+488,2015-04-19,Lewis,Hamilton,British,Bahrain International Circuit,Bahrain,1,25.0,26.0325,50.5106
+489,2008-04-06,Felipe,Massa,Brazilian,Bahrain International Circuit,Bahrain,2,10.0,26.0325,50.5106
+490,2007-04-15,Felipe,Massa,Brazilian,Bahrain International Circuit,Bahrain,1,10.0,26.0325,50.5106
+491,2012-04-22,Sebastian,Vettel,German,Bahrain International Circuit,Bahrain,1,25.0,26.0325,50.5106
+492,2013-04-21,Sebastian,Vettel,German,Bahrain International Circuit,Bahrain,2,25.0,26.0325,50.5106
+493,2017-04-16,Sebastian,Vettel,German,Bahrain International Circuit,Bahrain,3,25.0,26.0325,50.5106
+494,2006-03-12,Fernando,Alonso,Spanish,Bahrain International Circuit,Bahrain,4,10.0,26.0325,50.5106
+495,2005-04-03,Fernando,Alonso,Spanish,Bahrain International Circuit,Bahrain,1,10.0,26.0325,50.5106
+496,2010-03-14,Fernando,Alonso,Spanish,Bahrain International Circuit,Bahrain,3,25.0,26.0325,50.5106
+497,2004-04-04,Michael,Schumacher,German,Bahrain International Circuit,Bahrain,1,10.0,26.0325,50.5106
+498,2009-04-26,Jenson,Button,British,Bahrain International Circuit,Bahrain,4,10.0,26.0325,50.5106
+499,2016-04-03,Nico,Rosberg,German,Bahrain International Circuit,Bahrain,2,25.0,26.0325,50.5106
+500,2014-05-11,Lewis,Hamilton,British,Circuit de Barcelona-Catalunya,Spain,1,25.0,41.57,2.26111
+501,2017-05-14,Lewis,Hamilton,British,Circuit de Barcelona-Catalunya,Spain,1,25.0,41.57,2.26111
+502,2008-04-27,Kimi,RÌ_ikkÌ¦nen,Finnish,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+503,2005-05-08,Kimi,RÌ_ikkÌ¦nen,Finnish,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+504,2007-05-13,Felipe,Massa,Brazilian,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+505,2011-05-22,Sebastian,Vettel,German,Circuit de Barcelona-Catalunya,Spain,2,25.0,41.57,2.26111
+506,2006-05-14,Fernando,Alonso,Spanish,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+507,2013-05-12,Fernando,Alonso,Spanish,Circuit de Barcelona-Catalunya,Spain,5,25.0,41.57,2.26111
+508,2004-05-09,Michael,Schumacher,German,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+509,2003-05-04,Michael,Schumacher,German,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+510,2002-04-28,Michael,Schumacher,German,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+511,2001-04-29,Michael,Schumacher,German,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+512,1996-06-02,Michael,Schumacher,German,Circuit de Barcelona-Catalunya,Spain,3,10.0,41.57,2.26111
+513,1995-05-14,Michael,Schumacher,German,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+514,2009-05-10,Jenson,Button,British,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+515,2000-05-07,Mika,HÌ_kkinen,Finnish,Circuit de Barcelona-Catalunya,Spain,2,10.0,41.57,2.26111
+516,1999-05-30,Mika,HÌ_kkinen,Finnish,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+517,1998-05-10,Mika,HÌ_kkinen,Finnish,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+518,1994-05-29,Damon,Hill,British,Circuit de Barcelona-Catalunya,Spain,2,10.0,41.57,2.26111
+519,1997-05-25,Jacques,Villeneuve,Canadian,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+520,1992-05-03,Nigel,Mansell,British,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+521,1991-09-29,Nigel,Mansell,British,Circuit de Barcelona-Catalunya,Spain,2,10.0,41.57,2.26111
+522,1993-05-09,Alain,Prost,French,Circuit de Barcelona-Catalunya,Spain,1,10.0,41.57,2.26111
+523,2010-05-09,Mark,Webber,Australian,Circuit de Barcelona-Catalunya,Spain,1,25.0,41.57,2.26111
+524,2015-05-10,Nico,Rosberg,German,Circuit de Barcelona-Catalunya,Spain,1,25.0,41.57,2.26111
+525,2012-05-13,Pastor,Maldonado,Venezuelan,Circuit de Barcelona-Catalunya,Spain,1,25.0,41.57,2.26111
+526,2016-05-15,Max,Verstappen,Dutch,Circuit de Barcelona-Catalunya,Spain,4,25.0,41.57,2.26111
+527,2014-10-05,Lewis,Hamilton,British,Suzuka Circuit,Japan,2,25.0,34.8431,136.541
+528,2015-09-27,Lewis,Hamilton,British,Suzuka Circuit,Japan,2,25.0,34.8431,136.541
+529,2017-10-08,Lewis,Hamilton,British,Suzuka Circuit,Japan,1,25.0,34.8431,136.541
+530,2005-10-09,Kimi,RÌ_ikkÌ¦nen,Finnish,Suzuka Circuit,Japan,17,10.0,34.8431,136.541
+531,2009-10-04,Sebastian,Vettel,German,Suzuka Circuit,Japan,1,10.0,34.8431,136.541
+532,2010-10-10,Sebastian,Vettel,German,Suzuka Circuit,Japan,1,25.0,34.8431,136.541
+533,2012-10-07,Sebastian,Vettel,German,Suzuka Circuit,Japan,1,25.0,34.8431,136.541
+534,2013-10-13,Sebastian,Vettel,German,Suzuka Circuit,Japan,2,25.0,34.8431,136.541
+535,2006-10-08,Fernando,Alonso,Spanish,Suzuka Circuit,Japan,5,10.0,34.8431,136.541
+536,2004-10-10,Michael,Schumacher,German,Suzuka Circuit,Japan,1,10.0,34.8431,136.541
+537,2002-10-13,Michael,Schumacher,German,Suzuka Circuit,Japan,1,10.0,34.8431,136.541
+538,2001-10-14,Michael,Schumacher,German,Suzuka Circuit,Japan,1,10.0,34.8431,136.541
+539,2000-10-08,Michael,Schumacher,German,Suzuka Circuit,Japan,1,10.0,34.8431,136.541
+540,1997-10-12,Michael,Schumacher,German,Suzuka Circuit,Japan,2,10.0,34.8431,136.541
+541,1995-10-29,Michael,Schumacher,German,Suzuka Circuit,Japan,1,10.0,34.8431,136.541
+542,2011-10-09,Jenson,Button,British,Suzuka Circuit,Japan,2,25.0,34.8431,136.541
+543,2003-10-12,Rubens,Barrichello,Brazilian,Suzuka Circuit,Japan,1,10.0,34.8431,136.541
+544,1999-10-31,Mika,HÌ_kkinen,Finnish,Suzuka Circuit,Japan,2,10.0,34.8431,136.541
+545,1998-11-01,Mika,HÌ_kkinen,Finnish,Suzuka Circuit,Japan,2,10.0,34.8431,136.541
+546,1996-10-13,Damon,Hill,British,Suzuka Circuit,Japan,2,10.0,34.8431,136.541
+547,1994-11-06,Damon,Hill,British,Suzuka Circuit,Japan,2,10.0,34.8431,136.541
+548,1991-10-20,Gerhard,Berger,Austrian,Suzuka Circuit,Japan,1,10.0,34.8431,136.541
+549,1987-11-01,Gerhard,Berger,Austrian,Suzuka Circuit,Japan,1,9.0,34.8431,136.541
+550,1993-10-24,Ayrton,Senna,Brazilian,Suzuka Circuit,Japan,2,10.0,34.8431,136.541
+551,1988-10-30,Ayrton,Senna,Brazilian,Suzuka Circuit,Japan,1,9.0,34.8431,136.541
+552,1992-10-25,Riccardo,Patrese,Italian,Suzuka Circuit,Japan,2,10.0,34.8431,136.541
+553,1990-10-21,Nelson,Piquet,Brazilian,Suzuka Circuit,Japan,6,9.0,34.8431,136.541
+554,1989-10-22,Alessandro,Nannini,Italian,Suzuka Circuit,Japan,6,9.0,34.8431,136.541
+555,2016-10-09,Nico,Rosberg,German,Suzuka Circuit,Japan,1,25.0,34.8431,136.541
+556,2014-10-12,Lewis,Hamilton,British,Sochi Autodrom,Russia,1,25.0,43.4057,39.9578
+557,2015-10-11,Lewis,Hamilton,British,Sochi Autodrom,Russia,2,25.0,43.4057,39.9578
+558,2016-05-01,Nico,Rosberg,German,Sochi Autodrom,Russia,1,25.0,43.4057,39.9578
+559,2017-04-30,Valtteri,Bottas,Finnish,Sochi Autodrom,Russia,3,25.0,43.4057,39.9578
+560,2016-07-03,Lewis,Hamilton,British,Red Bull Ring,Austria,1,25.0,47.2197,14.7647
+561,2014-06-22,Nico,Rosberg,German,Red Bull Ring,Austria,3,25.0,47.2197,14.7647
+562,2015-06-21,Nico,Rosberg,German,Red Bull Ring,Austria,2,25.0,47.2197,14.7647
+563,2017-07-09,Valtteri,Bottas,Finnish,Red Bull Ring,Austria,1,25.0,47.2197,14.7647
+564,2016-10-30,Lewis,Hamilton,British,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,1,25.0,19.4042,-99.0907
+565,1986-10-12,Gerhard,Berger,Austrian,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,4,9.0,19.4042,-99.0907
+566,1992-03-22,Nigel,Mansell,British,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,1,10.0,19.4042,-99.0907
+567,1987-10-18,Nigel,Mansell,British,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,1,9.0,19.4042,-99.0907
+568,1990-06-24,Alain,Prost,French,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,13,9.0,19.4042,-99.0907
+569,1988-05-29,Alain,Prost,French,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,2,9.0,19.4042,-99.0907
+570,1989-05-28,Ayrton,Senna,Brazilian,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,1,9.0,19.4042,-99.0907
+571,1991-06-16,Riccardo,Patrese,Italian,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,1,10.0,19.4042,-99.0907
+572,1969-10-19,Denny,Hulme,New Zealander,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,4,9.0,19.4042,-99.0907
+573,1970-10-25,Jacky,Ickx,Belgian,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,3,9.0,19.4042,-99.0907
+574,1968-11-03,Graham,Hill,British,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,3,9.0,19.4042,-99.0907
+575,1967-10-22,Jim,Clark,British,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,1,9.0,19.4042,-99.0907
+576,1963-10-27,Jim,Clark,British,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,1,9.0,19.4042,-99.0907
+577,1964-10-25,Dan,Gurney,American,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,2,9.0,19.4042,-99.0907
+578,1966-10-23,John,Surtees,British,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,1,9.0,19.4042,-99.0907
+579,1965-10-24,Richie,Ginther,American,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,3,9.0,19.4042,-99.0907
+580,2015-11-01,Nico,Rosberg,German,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,1,25.0,19.4042,-99.0907
+581,2017-10-29,Max,Verstappen,Dutch,AutÌ_dromo Hermanos RodrÌ_guez,Mexico,2,25.0,19.4042,-99.0907
+582,2016-11-13,Lewis,Hamilton,British,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,25.0,-23.7036,-46.6997
+583,2007-10-21,Kimi,RÌ_ikkÌ¦nen,Finnish,AutÌ_dromo JosÌ© Carlos Pace,Brazil,3,10.0,-23.7036,-46.6997
+584,2008-11-02,Felipe,Massa,Brazilian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,10.0,-23.7036,-46.6997
+585,2006-10-22,Felipe,Massa,Brazilian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,10.0,-23.7036,-46.6997
+586,2010-11-07,Sebastian,Vettel,German,AutÌ_dromo JosÌ© Carlos Pace,Brazil,2,25.0,-23.7036,-46.6997
+587,2013-11-24,Sebastian,Vettel,German,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,25.0,-23.7036,-46.6997
+588,2017-11-12,Sebastian,Vettel,German,AutÌ_dromo JosÌ© Carlos Pace,Brazil,2,25.0,-23.7036,-46.6997
+589,2003-04-06,Giancarlo,Fisichella,Italian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,8,10.0,-23.7036,-46.6997
+590,2002-03-31,Michael,Schumacher,German,AutÌ_dromo JosÌ© Carlos Pace,Brazil,2,10.0,-23.7036,-46.6997
+591,2000-03-26,Michael,Schumacher,German,AutÌ_dromo JosÌ© Carlos Pace,Brazil,3,10.0,-23.7036,-46.6997
+592,1995-03-26,Michael,Schumacher,German,AutÌ_dromo JosÌ© Carlos Pace,Brazil,2,10.0,-23.7036,-46.6997
+593,1994-03-27,Michael,Schumacher,German,AutÌ_dromo JosÌ© Carlos Pace,Brazil,2,10.0,-23.7036,-46.6997
+594,2012-11-25,Jenson,Button,British,AutÌ_dromo JosÌ© Carlos Pace,Brazil,2,25.0,-23.7036,-46.6997
+595,2005-09-25,Juan,Pablo Montoya,Colombian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,2,10.0,-23.7036,-46.6997
+596,2004-10-24,Juan,Pablo Montoya,Colombian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,2,10.0,-23.7036,-46.6997
+597,2001-04-01,David,Coulthard,British,AutÌ_dromo JosÌ© Carlos Pace,Brazil,5,10.0,-23.7036,-46.6997
+598,1999-04-11,Mika,HÌ_kkinen,Finnish,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,10.0,-23.7036,-46.6997
+599,1998-03-29,Mika,HÌ_kkinen,Finnish,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,10.0,-23.7036,-46.6997
+600,1996-03-31,Damon,Hill,British,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,10.0,-23.7036,-46.6997
+601,1997-03-30,Jacques,Villeneuve,Canadian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,10.0,-23.7036,-46.6997
+602,1992-04-05,Nigel,Mansell,British,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,10.0,-23.7036,-46.6997
+603,1990-03-25,Alain,Prost,French,AutÌ_dromo JosÌ© Carlos Pace,Brazil,6,9.0,-23.7036,-46.6997
+604,1993-03-28,Ayrton,Senna,Brazilian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,3,10.0,-23.7036,-46.6997
+605,1991-03-24,Ayrton,Senna,Brazilian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,10.0,-23.7036,-46.6997
+606,2009-10-18,Mark,Webber,Australian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,2,10.0,-23.7036,-46.6997
+607,2011-11-27,Mark,Webber,Australian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,2,25.0,-23.7036,-46.6997
+608,1976-01-25,Niki,Lauda,Austrian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,2,9.0,-23.7036,-46.6997
+609,1980-01-27,RenÌ©,Arnoux,French,AutÌ_dromo JosÌ© Carlos Pace,Brazil,6,9.0,-23.7036,-46.6997
+610,1977-01-23,Carlos,Reutemann,Argentine,AutÌ_dromo JosÌ© Carlos Pace,Brazil,2,9.0,-23.7036,-46.6997
+611,1979-02-04,Jacques,Laffite,French,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,9.0,-23.7036,-46.6997
+612,1974-01-27,Emerson,Fittipaldi,Brazilian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,9.0,-23.7036,-46.6997
+613,1973-02-11,Emerson,Fittipaldi,Brazilian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,2,9.0,-23.7036,-46.6997
+614,1975-01-26,Carlos,Pace,Brazilian,AutÌ_dromo JosÌ© Carlos Pace,Brazil,6,9.0,-23.7036,-46.6997
+615,2014-11-09,Nico,Rosberg,German,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,25.0,-23.7036,-46.6997
+616,2015-11-15,Nico,Rosberg,German,AutÌ_dromo JosÌ© Carlos Pace,Brazil,1,25.0,-23.7036,-46.6997
+617,2007-07-01,Kimi,RÌ_ikkÌ¦nen,Finnish,Circuit de Nevers Magny-Cours,France,3,10.0,46.8642,3.16361
+618,2008-06-22,Felipe,Massa,Brazilian,Circuit de Nevers Magny-Cours,France,2,10.0,46.8642,3.16361
+619,2005-07-03,Fernando,Alonso,Spanish,Circuit de Nevers Magny-Cours,France,1,10.0,46.8642,3.16361
+620,2006-07-16,Michael,Schumacher,German,Circuit de Nevers Magny-Cours,France,1,10.0,46.8642,3.16361
+621,2004-07-04,Michael,Schumacher,German,Circuit de Nevers Magny-Cours,France,2,10.0,46.8642,3.16361
+622,2002-07-21,Michael,Schumacher,German,Circuit de Nevers Magny-Cours,France,2,10.0,46.8642,3.16361
+623,2001-07-01,Michael,Schumacher,German,Circuit de Nevers Magny-Cours,France,2,10.0,46.8642,3.16361
+624,1998-06-28,Michael,Schumacher,German,Circuit de Nevers Magny-Cours,France,2,10.0,46.8642,3.16361
+625,1997-06-29,Michael,Schumacher,German,Circuit de Nevers Magny-Cours,France,1,10.0,46.8642,3.16361
+626,1995-07-02,Michael,Schumacher,German,Circuit de Nevers Magny-Cours,France,2,10.0,46.8642,3.16361
+627,1994-07-03,Michael,Schumacher,German,Circuit de Nevers Magny-Cours,France,3,10.0,46.8642,3.16361
+628,2000-07-02,David,Coulthard,British,Circuit de Nevers Magny-Cours,France,2,10.0,46.8642,3.16361
+629,2003-07-06,Ralf,Schumacher,German,Circuit de Nevers Magny-Cours,France,1,10.0,46.8642,3.16361
+630,1999-06-27,Heinz-Harald,Frentzen,German,Circuit de Nevers Magny-Cours,France,5,10.0,46.8642,3.16361
+631,1996-06-30,Damon,Hill,British,Circuit de Nevers Magny-Cours,France,2,10.0,46.8642,3.16361
+632,1992-07-05,Nigel,Mansell,British,Circuit de Nevers Magny-Cours,France,1,10.0,46.8642,3.16361
+633,1991-07-07,Nigel,Mansell,British,Circuit de Nevers Magny-Cours,France,4,10.0,46.8642,3.16361
+634,1993-07-04,Alain,Prost,French,Circuit de Nevers Magny-Cours,France,2,10.0,46.8642,3.16361
+635,2008-08-24,Felipe,Massa,Brazilian,Valencia Street Circuit,Spain,1,10.0,39.4589,-0.331667
+636,2010-06-27,Sebastian,Vettel,German,Valencia Street Circuit,Spain,1,25.0,39.4589,-0.331667
+637,2011-06-26,Sebastian,Vettel,German,Valencia Street Circuit,Spain,1,25.0,39.4589,-0.331667
+638,2012-06-24,Fernando,Alonso,Spanish,Valencia Street Circuit,Spain,11,25.0,39.4589,-0.331667
+639,2009-08-23,Rubens,Barrichello,Brazilian,Valencia Street Circuit,Spain,3,10.0,39.4589,-0.331667
+640,2011-10-16,Sebastian,Vettel,German,Korean International Circuit,Korea,2,25.0,34.7333,126.417
+641,2012-10-14,Sebastian,Vettel,German,Korean International Circuit,Korea,2,25.0,34.7333,126.417
+642,2013-10-06,Sebastian,Vettel,German,Korean International Circuit,Korea,1,25.0,34.7333,126.417
+643,2010-10-24,Fernando,Alonso,Spanish,Korean International Circuit,Korea,3,25.0,34.7333,126.417
+644,2011-10-30,Sebastian,Vettel,German,Buddh International Circuit,India,1,25.0,28.3487,77.5331
+645,2012-10-28,Sebastian,Vettel,German,Buddh International Circuit,India,1,25.0,28.3487,77.5331
+646,2013-10-27,Sebastian,Vettel,German,Buddh International Circuit,India,1,25.0,28.3487,77.5331
+647,2005-04-24,Fernando,Alonso,Spanish,Autodromo Enzo e Dino Ferrari,Italy,2,10.0,44.3439,11.7167
+648,2006-04-23,Michael,Schumacher,German,Autodromo Enzo e Dino Ferrari,Italy,1,10.0,44.3439,11.7167
+649,2004-04-25,Michael,Schumacher,German,Autodromo Enzo e Dino Ferrari,Italy,2,10.0,44.3439,11.7167
+650,2003-04-20,Michael,Schumacher,German,Autodromo Enzo e Dino Ferrari,Italy,1,10.0,44.3439,11.7167
+651,2002-04-14,Michael,Schumacher,German,Autodromo Enzo e Dino Ferrari,Italy,1,10.0,44.3439,11.7167
+652,2000-04-09,Michael,Schumacher,German,Autodromo Enzo e Dino Ferrari,Italy,2,10.0,44.3439,11.7167
+653,1999-05-02,Michael,Schumacher,German,Autodromo Enzo e Dino Ferrari,Italy,3,10.0,44.3439,11.7167
+654,1994-05-01,Michael,Schumacher,German,Autodromo Enzo e Dino Ferrari,Italy,2,10.0,44.3439,11.7167
+655,1998-04-26,David,Coulthard,British,Autodromo Enzo e Dino Ferrari,Italy,1,10.0,44.3439,11.7167
+656,2001-04-15,Ralf,Schumacher,German,Autodromo Enzo e Dino Ferrari,Italy,3,10.0,44.3439,11.7167
+657,1997-04-27,Heinz-Harald,Frentzen,German,Autodromo Enzo e Dino Ferrari,Italy,2,10.0,44.3439,11.7167
+658,1996-05-05,Damon,Hill,British,Autodromo Enzo e Dino Ferrari,Italy,2,10.0,44.3439,11.7167
+659,1995-04-30,Damon,Hill,British,Autodromo Enzo e Dino Ferrari,Italy,4,10.0,44.3439,11.7167
+660,1992-05-17,Nigel,Mansell,British,Autodromo Enzo e Dino Ferrari,Italy,1,10.0,44.3439,11.7167
+661,1987-05-03,Nigel,Mansell,British,Autodromo Enzo e Dino Ferrari,Italy,2,9.0,44.3439,11.7167
+662,1993-04-25,Alain,Prost,French,Autodromo Enzo e Dino Ferrari,Italy,1,10.0,44.3439,11.7167
+663,1986-04-27,Alain,Prost,French,Autodromo Enzo e Dino Ferrari,Italy,4,9.0,44.3439,11.7167
+664,1984-05-06,Alain,Prost,French,Autodromo Enzo e Dino Ferrari,Italy,2,9.0,44.3439,11.7167
+665,1991-04-28,Ayrton,Senna,Brazilian,Autodromo Enzo e Dino Ferrari,Italy,1,10.0,44.3439,11.7167
+666,1989-04-23,Ayrton,Senna,Brazilian,Autodromo Enzo e Dino Ferrari,Italy,1,9.0,44.3439,11.7167
+667,1988-05-01,Ayrton,Senna,Brazilian,Autodromo Enzo e Dino Ferrari,Italy,1,9.0,44.3439,11.7167
+668,1990-05-13,Riccardo,Patrese,Italian,Autodromo Enzo e Dino Ferrari,Italy,3,9.0,44.3439,11.7167
+669,1981-05-03,Nelson,Piquet,Brazilian,Autodromo Enzo e Dino Ferrari,Italy,5,9.0,44.3439,11.7167
+670,1980-09-14,Nelson,Piquet,Brazilian,Autodromo Enzo e Dino Ferrari,Italy,5,9.0,44.3439,11.7167
+671,1985-05-05,Elio,de Angelis,Italian,Autodromo Enzo e Dino Ferrari,Italy,3,9.0,44.3439,11.7167
+672,1983-05-01,Patrick,Tambay,French,Autodromo Enzo e Dino Ferrari,Italy,3,9.0,44.3439,11.7167
+673,1982-04-25,Didier,Pironi,French,Autodromo Enzo e Dino Ferrari,Italy,4,9.0,44.3439,11.7167
+674,2003-05-18,Michael,Schumacher,German,A1-Ring,Austria,1,10.0,47.2197,14.7647
+675,2002-05-12,Michael,Schumacher,German,A1-Ring,Austria,3,10.0,47.2197,14.7647
+676,2001-05-13,David,Coulthard,British,A1-Ring,Austria,7,10.0,47.2197,14.7647
+677,2000-07-16,Mika,HÌ_kkinen,Finnish,A1-Ring,Austria,1,10.0,47.2197,14.7647
+678,1998-07-26,Mika,HÌ_kkinen,Finnish,A1-Ring,Austria,3,10.0,47.2197,14.7647
+679,1999-07-25,Eddie,Irvine,British,A1-Ring,Austria,3,10.0,47.2197,14.7647
+680,1997-09-21,Jacques,Villeneuve,Canadian,A1-Ring,Austria,1,10.0,47.2197,14.7647
+681,1987-08-16,Nigel,Mansell,British,A1-Ring,Austria,2,9.0,47.2197,14.7647
+682,1986-08-17,Alain,Prost,French,A1-Ring,Austria,5,9.0,47.2197,14.7647
+683,1985-08-18,Alain,Prost,French,A1-Ring,Austria,1,9.0,47.2197,14.7647
+684,1983-08-14,Alain,Prost,French,A1-Ring,Austria,5,9.0,47.2197,14.7647
+685,1982-08-15,Elio,de Angelis,Italian,A1-Ring,Austria,7,9.0,47.2197,14.7647
+686,1984-08-19,Niki,Lauda,Austrian,A1-Ring,Austria,4,9.0,47.2197,14.7647
+687,1976-08-15,John,Watson,British,A1-Ring,Austria,2,9.0,47.2197,14.7647
+688,1979-08-12,Alan,Jones,Australian,A1-Ring,Austria,2,9.0,47.2197,14.7647
+689,1977-08-14,Alan,Jones,Australian,A1-Ring,Austria,14,9.0,47.2197,14.7647
+690,1974-08-18,Carlos,Reutemann,Argentine,A1-Ring,Austria,2,9.0,47.2197,14.7647
+691,1981-08-16,Jacques,Laffite,French,A1-Ring,Austria,4,9.0,47.2197,14.7647
+692,1980-08-17,Jean-Pierre,Jabouille,French,A1-Ring,Austria,2,9.0,47.2197,14.7647
+693,1978-08-13,Ronnie,Peterson,Swedish,A1-Ring,Austria,1,9.0,47.2197,14.7647
+694,1973-08-19,Ronnie,Peterson,Swedish,A1-Ring,Austria,2,9.0,47.2197,14.7647
+695,1972-08-13,Emerson,Fittipaldi,Brazilian,A1-Ring,Austria,1,9.0,47.2197,14.7647
+696,1975-08-17,Vittorio,Brambilla,Italian,A1-Ring,Austria,8,4.5,47.2197,14.7647
+697,1970-08-16,Jacky,Ickx,Belgian,A1-Ring,Austria,3,9.0,47.2197,14.7647
+698,1971-08-15,Jo,Siffert,Swiss,A1-Ring,Austria,1,9.0,47.2197,14.7647
+699,1998-04-12,Michael,Schumacher,German,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,2,10.0,-34.6943,-58.4593
+700,1996-04-07,Damon,Hill,British,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,1,10.0,-34.6943,-58.4593
+701,1995-04-09,Damon,Hill,British,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,2,10.0,-34.6943,-58.4593
+702,1997-04-13,Jacques,Villeneuve,Canadian,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,1,10.0,-34.6943,-58.4593
+703,1981-04-12,Nelson,Piquet,Brazilian,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,1,9.0,-34.6943,-58.4593
+704,1980-01-13,Alan,Jones,Australian,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,1,9.0,-34.6943,-58.4593
+705,1979-01-21,Jacques,Laffite,French,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,1,9.0,-34.6943,-58.4593
+706,1977-01-09,Jody,Scheckter,South African,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,11,9.0,-34.6943,-58.4593
+707,1978-01-15,Mario,Andretti,American,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,1,9.0,-34.6943,-58.4593
+708,1975-01-12,Emerson,Fittipaldi,Brazilian,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,5,9.0,-34.6943,-58.4593
+709,1973-01-28,Emerson,Fittipaldi,Brazilian,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,2,9.0,-34.6943,-58.4593
+710,1974-01-13,Denny,Hulme,New Zealander,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,10,9.0,-34.6943,-58.4593
+711,1972-01-23,Jackie,Stewart,British,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,2,9.0,-34.6943,-58.4593
+712,1960-02-07,Bruce,McLaren,New Zealander,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,13,8.0,-34.6943,-58.4593
+713,1958-01-19,Stirling,Moss,British,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,7,8.0,-34.6943,-58.4593
+714,1957-01-13,Juan,Fangio,Argentine,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,2,8.0,-34.6943,-58.4593
+715,1956-01-22,Juan,Fangio,Argentine,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,3,5.0,-34.6943,-58.4593
+716,1955-01-16,Juan,Fangio,Argentine,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,3,9.0,-34.6943,-58.4593
+717,1954-01-17,Juan,Fangio,Argentine,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,3,8.0,-34.6943,-58.4593
+718,1956-01-22,Luigi,Musso,Italian,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,3,5.0,-34.6943,-58.4593
+719,1953-01-18,Alberto,Ascari,Italian,AutÌ_dromo Juan y Oscar GÌÁlvez,Argentina,1,9.0,-34.6943,-58.4593
+720,1995-10-22,Michael,Schumacher,German,Okayama International Circuit,Japan,3,10.0,34.915,134.221
+721,1994-04-17,Michael,Schumacher,German,Okayama International Circuit,Japan,2,10.0,34.915,134.221
+722,1994-10-16,Michael,Schumacher,German,Circuito de Jerez,Spain,1,10.0,36.7083,-6.03417
+723,1997-10-26,Mika,HÌ_kkinen,Finnish,Circuito de Jerez,Spain,5,10.0,36.7083,-6.03417
+724,1987-09-27,Nigel,Mansell,British,Circuito de Jerez,Spain,2,9.0,36.7083,-6.03417
+725,1990-09-30,Alain,Prost,French,Circuito de Jerez,Spain,2,9.0,36.7083,-6.03417
+726,1988-10-02,Alain,Prost,French,Circuito de Jerez,Spain,2,9.0,36.7083,-6.03417
+727,1989-10-01,Ayrton,Senna,Brazilian,Circuito de Jerez,Spain,1,9.0,36.7083,-6.03417
+728,1986-04-13,Ayrton,Senna,Brazilian,Circuito de Jerez,Spain,1,9.0,36.7083,-6.03417
+729,1993-09-26,Michael,Schumacher,German,AutÌ_dromo do Estoril,Portugal,6,10.0,38.7506,-9.394169999999999
+730,1995-09-24,David,Coulthard,British,AutÌ_dromo do Estoril,Portugal,1,10.0,38.7506,-9.394169999999999
+731,1994-09-25,Damon,Hill,British,AutÌ_dromo do Estoril,Portugal,2,10.0,38.7506,-9.394169999999999
+732,1996-09-22,Jacques,Villeneuve,Canadian,AutÌ_dromo do Estoril,Portugal,2,10.0,38.7506,-9.394169999999999
+733,1989-09-24,Gerhard,Berger,Austrian,AutÌ_dromo do Estoril,Portugal,2,9.0,38.7506,-9.394169999999999
+734,1992-09-27,Nigel,Mansell,British,AutÌ_dromo do Estoril,Portugal,1,10.0,38.7506,-9.394169999999999
+735,1990-09-23,Nigel,Mansell,British,AutÌ_dromo do Estoril,Portugal,1,9.0,38.7506,-9.394169999999999
+736,1986-09-21,Nigel,Mansell,British,AutÌ_dromo do Estoril,Portugal,2,9.0,38.7506,-9.394169999999999
+737,1988-09-25,Alain,Prost,French,AutÌ_dromo do Estoril,Portugal,1,9.0,38.7506,-9.394169999999999
+738,1987-09-20,Alain,Prost,French,AutÌ_dromo do Estoril,Portugal,3,9.0,38.7506,-9.394169999999999
+739,1984-10-21,Alain,Prost,French,AutÌ_dromo do Estoril,Portugal,2,9.0,38.7506,-9.394169999999999
+740,1985-04-21,Ayrton,Senna,Brazilian,AutÌ_dromo do Estoril,Portugal,1,9.0,38.7506,-9.394169999999999
+741,1991-09-22,Riccardo,Patrese,Italian,AutÌ_dromo do Estoril,Portugal,1,10.0,38.7506,-9.394169999999999
+742,1995-11-12,Damon,Hill,British,Adelaide Street Circuit,Australia,1,10.0,-34.9272,138.61700000000002
+743,1992-11-08,Gerhard,Berger,Austrian,Adelaide Street Circuit,Australia,4,10.0,-34.9272,138.61700000000002
+744,1987-11-15,Gerhard,Berger,Austrian,Adelaide Street Circuit,Australia,1,9.0,-34.9272,138.61700000000002
+745,1994-11-13,Nigel,Mansell,British,Adelaide Street Circuit,Australia,1,10.0,-34.9272,138.61700000000002
+746,1988-11-13,Alain,Prost,French,Adelaide Street Circuit,Australia,2,9.0,-34.9272,138.61700000000002
+747,1986-10-26,Alain,Prost,French,Adelaide Street Circuit,Australia,4,9.0,-34.9272,138.61700000000002
+748,1993-11-07,Ayrton,Senna,Brazilian,Adelaide Street Circuit,Australia,1,10.0,-34.9272,138.61700000000002
+749,1991-11-03,Ayrton,Senna,Brazilian,Adelaide Street Circuit,Australia,1,5.0,-34.9272,138.61700000000002
+750,1990-11-04,Nelson,Piquet,Brazilian,Adelaide Street Circuit,Australia,7,9.0,-34.9272,138.61700000000002
+751,1989-11-05,Thierry,Boutsen,Belgian,Adelaide Street Circuit,Australia,5,9.0,-34.9272,138.61700000000002
+752,1985-11-03,Keke,Rosberg,Finnish,Adelaide Street Circuit,Australia,3,9.0,-34.9272,138.61700000000002
+753,1992-03-01,Nigel,Mansell,British,Kyalami,South Africa,1,10.0,-25.9894,28.0767
+754,1985-10-19,Nigel,Mansell,British,Kyalami,South Africa,1,9.0,-25.9894,28.0767
+755,1993-03-14,Alain,Prost,French,Kyalami,South Africa,1,10.0,-25.9894,28.0767
+756,1982-01-23,Alain,Prost,French,Kyalami,South Africa,5,9.0,-25.9894,28.0767
+757,1983-10-15,Riccardo,Patrese,Italian,Kyalami,South Africa,3,9.0,-25.9894,28.0767
+758,1984-04-07,Niki,Lauda,Austrian,Kyalami,South Africa,8,9.0,-25.9894,28.0767
+759,1977-03-05,Niki,Lauda,Austrian,Kyalami,South Africa,3,9.0,-25.9894,28.0767
+760,1976-03-06,Niki,Lauda,Austrian,Kyalami,South Africa,2,9.0,-25.9894,28.0767
+761,1980-03-01,RenÌ©,Arnoux,French,Kyalami,South Africa,2,9.0,-25.9894,28.0767
+762,1974-03-30,Carlos,Reutemann,Argentine,Kyalami,South Africa,4,9.0,-25.9894,28.0767
+763,1979-03-03,Gilles,Villeneuve,Canadian,Kyalami,South Africa,3,9.0,-25.9894,28.0767
+764,1975-03-01,Jody,Scheckter,South African,Kyalami,South Africa,3,9.0,-25.9894,28.0767
+765,1971-03-06,Mario,Andretti,American,Kyalami,South Africa,4,9.0,-25.9894,28.0767
+766,1978-03-04,Ronnie,Peterson,Swedish,Kyalami,South Africa,12,9.0,-25.9894,28.0767
+767,1972-03-04,Denny,Hulme,New Zealander,Kyalami,South Africa,5,9.0,-25.9894,28.0767
+768,1973-03-03,Jackie,Stewart,British,Kyalami,South Africa,16,9.0,-25.9894,28.0767
+769,1969-03-01,Jackie,Stewart,British,Kyalami,South Africa,4,9.0,-25.9894,28.0767
+770,1970-03-07,Jack,Brabham,Australian,Kyalami,South Africa,3,9.0,-25.9894,28.0767
+771,1967-01-02,Pedro,RodrÌ_guez,Mexican,Kyalami,South Africa,4,9.0,-25.9894,28.0767
+772,1968-01-01,Jim,Clark,British,Kyalami,South Africa,1,9.0,-25.9894,28.0767
+773,1989-03-26,Nigel,Mansell,British,AutÌ_dromo Internacional Nelson Piquet,Brazil,6,9.0,-22.9756,-43.395
+774,1988-04-03,Alain,Prost,French,AutÌ_dromo Internacional Nelson Piquet,Brazil,3,9.0,-22.9756,-43.395
+775,1987-04-12,Alain,Prost,French,AutÌ_dromo Internacional Nelson Piquet,Brazil,5,9.0,-22.9756,-43.395
+776,1985-04-07,Alain,Prost,French,AutÌ_dromo Internacional Nelson Piquet,Brazil,6,9.0,-22.9756,-43.395
+777,1984-03-25,Alain,Prost,French,AutÌ_dromo Internacional Nelson Piquet,Brazil,4,9.0,-22.9756,-43.395
+778,1982-03-21,Alain,Prost,French,AutÌ_dromo Internacional Nelson Piquet,Brazil,1,9.0,-22.9756,-43.395
+779,1986-03-23,Nelson,Piquet,Brazilian,AutÌ_dromo Internacional Nelson Piquet,Brazil,2,9.0,-22.9756,-43.395
+780,1983-03-13,Nelson,Piquet,Brazilian,AutÌ_dromo Internacional Nelson Piquet,Brazil,4,9.0,-22.9756,-43.395
+781,1981-03-29,Carlos,Reutemann,Argentine,AutÌ_dromo Internacional Nelson Piquet,Brazil,2,9.0,-22.9756,-43.395
+782,1978-01-29,Carlos,Reutemann,Argentine,AutÌ_dromo Internacional Nelson Piquet,Brazil,4,9.0,-22.9756,-43.395
+783,1987-07-05,Nigel,Mansell,British,Circuit Paul Ricard,France,1,9.0,43.2506,5.79167
+784,1986-07-06,Nigel,Mansell,British,Circuit Paul Ricard,France,2,9.0,43.2506,5.79167
+785,1990-07-08,Alain,Prost,French,Circuit Paul Ricard,France,4,9.0,43.2506,5.79167
+786,1989-07-09,Alain,Prost,French,Circuit Paul Ricard,France,1,9.0,43.2506,5.79167
+787,1988-07-03,Alain,Prost,French,Circuit Paul Ricard,France,1,9.0,43.2506,5.79167
+788,1983-04-17,Alain,Prost,French,Circuit Paul Ricard,France,1,9.0,43.2506,5.79167
+789,1985-07-07,Nelson,Piquet,Brazilian,Circuit Paul Ricard,France,5,9.0,43.2506,5.79167
+790,1975-07-06,Niki,Lauda,Austrian,Circuit Paul Ricard,France,1,9.0,43.2506,5.79167
+791,1982-07-25,RenÌ©,Arnoux,French,Circuit Paul Ricard,France,1,9.0,43.2506,5.79167
+792,1980-06-29,Alan,Jones,Australian,Circuit Paul Ricard,France,4,9.0,43.2506,5.79167
+793,1978-07-02,Mario,Andretti,American,Circuit Paul Ricard,France,2,9.0,43.2506,5.79167
+794,1973-07-01,Ronnie,Peterson,Swedish,Circuit Paul Ricard,France,5,9.0,43.2506,5.79167
+795,1976-07-04,James,Hunt,British,Circuit Paul Ricard,France,1,9.0,43.2506,5.79167
+796,1971-07-04,Jackie,Stewart,British,Circuit Paul Ricard,France,1,9.0,43.2506,5.79167
+797,1986-07-13,Nigel,Mansell,British,Brands Hatch,UK,2,9.0,51.3569,0.263056
+798,1985-10-06,Nigel,Mansell,British,Brands Hatch,UK,3,9.0,51.3569,0.263056
+799,1983-09-25,Nelson,Piquet,Brazilian,Brands Hatch,UK,4,9.0,51.3569,0.263056
+800,1984-07-22,Niki,Lauda,Austrian,Brands Hatch,UK,3,9.0,51.3569,0.263056
+801,1982-07-18,Niki,Lauda,Austrian,Brands Hatch,UK,5,9.0,51.3569,0.263056
+802,1976-07-18,Niki,Lauda,Austrian,Brands Hatch,UK,1,9.0,51.3569,0.263056
+803,1980-07-13,Alan,Jones,Australian,Brands Hatch,UK,3,9.0,51.3569,0.263056
+804,1978-07-16,Carlos,Reutemann,Argentine,Brands Hatch,UK,8,9.0,51.3569,0.263056
+805,1974-07-20,Jody,Scheckter,South African,Brands Hatch,UK,3,9.0,51.3569,0.263056
+806,1972-07-15,Emerson,Fittipaldi,Brazilian,Brands Hatch,UK,2,9.0,51.3569,0.263056
+807,1968-07-20,Jo,Siffert,Swiss,Brands Hatch,UK,4,9.0,51.3569,0.263056
+808,1966-07-16,Jack,Brabham,Australian,Brands Hatch,UK,1,9.0,51.3569,0.263056
+809,1970-07-18,Jochen,Rindt,Austrian,Brands Hatch,UK,1,9.0,51.3569,0.263056
+810,1964-07-11,Jim,Clark,British,Brands Hatch,UK,1,9.0,51.3569,0.263056
+811,1989-06-04,Alain,Prost,French,Phoenix street circuit,USA,2,9.0,33.4479,-112.075
+812,1991-03-10,Ayrton,Senna,Brazilian,Phoenix street circuit,USA,1,10.0,33.4479,-112.075
+813,1990-03-11,Ayrton,Senna,Brazilian,Phoenix street circuit,USA,5,9.0,33.4479,-112.075
+814,1984-08-26,Alain,Prost,French,Circuit Park Zandvoort,Netherlands,1,9.0,52.3888,4.54092
+815,1981-08-30,Alain,Prost,French,Circuit Park Zandvoort,Netherlands,1,9.0,52.3888,4.54092
+816,1980-08-31,Nelson,Piquet,Brazilian,Circuit Park Zandvoort,Netherlands,5,9.0,52.3888,4.54092
+817,1985-08-25,Niki,Lauda,Austrian,Circuit Park Zandvoort,Netherlands,10,9.0,52.3888,4.54092
+818,1977-08-28,Niki,Lauda,Austrian,Circuit Park Zandvoort,Netherlands,4,9.0,52.3888,4.54092
+819,1974-06-23,Niki,Lauda,Austrian,Circuit Park Zandvoort,Netherlands,1,9.0,52.3888,4.54092
+820,1983-08-28,RenÌ©,Arnoux,French,Circuit Park Zandvoort,Netherlands,10,9.0,52.3888,4.54092
+821,1982-07-03,Didier,Pironi,French,Circuit Park Zandvoort,Netherlands,4,9.0,52.3888,4.54092
+822,1979-08-26,Alan,Jones,Australian,Circuit Park Zandvoort,Netherlands,2,9.0,52.3888,4.54092
+823,1978-08-27,Mario,Andretti,American,Circuit Park Zandvoort,Netherlands,1,9.0,52.3888,4.54092
+824,1976-08-29,James,Hunt,British,Circuit Park Zandvoort,Netherlands,2,9.0,52.3888,4.54092
+825,1975-06-22,James,Hunt,British,Circuit Park Zandvoort,Netherlands,3,9.0,52.3888,4.54092
+826,1973-07-29,Jackie,Stewart,British,Circuit Park Zandvoort,Netherlands,2,9.0,52.3888,4.54092
+827,1969-06-21,Jackie,Stewart,British,Circuit Park Zandvoort,Netherlands,2,9.0,52.3888,4.54092
+828,1968-06-23,Jackie,Stewart,British,Circuit Park Zandvoort,Netherlands,5,9.0,52.3888,4.54092
+829,1971-06-20,Jacky,Ickx,Belgian,Circuit Park Zandvoort,Netherlands,1,9.0,52.3888,4.54092
+830,1966-07-24,Jack,Brabham,Australian,Circuit Park Zandvoort,Netherlands,1,9.0,52.3888,4.54092
+831,1960-06-06,Jack,Brabham,Australian,Circuit Park Zandvoort,Netherlands,2,8.0,52.3888,4.54092
+832,1970-06-21,Jochen,Rindt,Austrian,Circuit Park Zandvoort,Netherlands,1,9.0,52.3888,4.54092
+833,1962-05-20,Graham,Hill,British,Circuit Park Zandvoort,Netherlands,2,9.0,52.3888,4.54092
+834,1967-06-04,Jim,Clark,British,Circuit Park Zandvoort,Netherlands,8,9.0,52.3888,4.54092
+835,1965-07-18,Jim,Clark,British,Circuit Park Zandvoort,Netherlands,2,9.0,52.3888,4.54092
+836,1964-05-24,Jim,Clark,British,Circuit Park Zandvoort,Netherlands,2,9.0,52.3888,4.54092
+837,1963-06-23,Jim,Clark,British,Circuit Park Zandvoort,Netherlands,1,9.0,52.3888,4.54092
+838,1958-05-26,Stirling,Moss,British,Circuit Park Zandvoort,Netherlands,2,9.0,52.3888,4.54092
+839,1961-05-22,Wolfgang,von Trips,German,Circuit Park Zandvoort,Netherlands,2,9.0,52.3888,4.54092
+840,1959-05-31,Jo,Bonnier,Swedish,Circuit Park Zandvoort,Netherlands,1,8.0,52.3888,4.54092
+841,1955-06-19,Juan,Fangio,Argentine,Circuit Park Zandvoort,Netherlands,1,8.0,52.3888,4.54092
+842,1953-06-07,Alberto,Ascari,Italian,Circuit Park Zandvoort,Netherlands,1,8.0,52.3888,4.54092
+843,1952-08-17,Alberto,Ascari,Italian,Circuit Park Zandvoort,Netherlands,1,9.0,52.3888,4.54092
+844,1981-07-05,Alain,Prost,French,Dijon-Prenois,France,3,9.0,47.3625,4.89913
+845,1982-08-29,Keke,Rosberg,Finnish,Dijon-Prenois,France,8,9.0,47.3625,4.89913
+846,1984-05-20,Niki,Lauda,Austrian,Dijon-Prenois,France,9,9.0,47.3625,4.89913
+847,1979-07-01,Jean-Pierre,Jabouille,French,Dijon-Prenois,France,1,9.0,47.3625,4.89913
+848,1977-07-03,Mario,Andretti,American,Dijon-Prenois,France,1,9.0,47.3625,4.89913
+849,1974-07-07,Ronnie,Peterson,Swedish,Dijon-Prenois,France,2,9.0,47.3625,4.89913
+850,1993-04-11,Ayrton,Senna,Brazilian,Donington Park,UK,4,10.0,52.8306,-1.3752799999999998
+851,1988-06-19,Ayrton,Senna,Brazilian,Detroit Street Circuit,USA,1,9.0,42.3298,-83.0401
+852,1987-06-21,Ayrton,Senna,Brazilian,Detroit Street Circuit,USA,2,9.0,42.3298,-83.0401
+853,1986-06-22,Ayrton,Senna,Brazilian,Detroit Street Circuit,USA,1,9.0,42.3298,-83.0401
+854,1984-06-24,Nelson,Piquet,Brazilian,Detroit Street Circuit,USA,1,9.0,42.3298,-83.0401
+855,1983-06-05,Michele,Alboreto,Italian,Detroit Street Circuit,USA,6,9.0,42.3298,-83.0401
+856,1985-06-23,Keke,Rosberg,Finnish,Detroit Street Circuit,USA,5,9.0,42.3298,-83.0401
+857,1982-06-06,John,Watson,British,Detroit Street Circuit,USA,17,9.0,42.3298,-83.0401
+858,1980-03-30,Nelson,Piquet,Brazilian,Long Beach,USA,1,9.0,33.7651,-118.189
+859,1982-04-04,Niki,Lauda,Austrian,Long Beach,USA,2,9.0,33.7651,-118.189
+860,1983-03-27,John,Watson,British,Long Beach,USA,22,9.0,33.7651,-118.189
+861,1981-03-15,Alan,Jones,Australian,Long Beach,USA,2,9.0,33.7651,-118.189
+862,1978-04-02,Carlos,Reutemann,Argentine,Long Beach,USA,1,9.0,33.7651,-118.189
+863,1979-04-08,Gilles,Villeneuve,Canadian,Long Beach,USA,1,9.0,33.7651,-118.189
+864,1976-03-28,Clay,Regazzoni,Swiss,Long Beach,USA,1,9.0,33.7651,-118.189
+865,1977-04-03,Mario,Andretti,American,Long Beach,USA,2,9.0,33.7651,-118.189
+866,1984-04-29,Michele,Alboreto,Italian,Zolder,Belgium,1,9.0,50.9894,5.25694
+867,1976-05-16,Niki,Lauda,Austrian,Zolder,Belgium,1,9.0,50.9894,5.25694
+868,1975-05-25,Niki,Lauda,Austrian,Zolder,Belgium,1,9.0,50.9894,5.25694
+869,1982-05-09,John,Watson,British,Zolder,Belgium,10,9.0,50.9894,5.25694
+870,1980-05-04,Didier,Pironi,French,Zolder,Belgium,2,9.0,50.9894,5.25694
+871,1981-05-17,Carlos,Reutemann,Argentine,Zolder,Belgium,1,9.0,50.9894,5.25694
+872,1979-05-13,Jody,Scheckter,South African,Zolder,Belgium,7,9.0,50.9894,5.25694
+873,1978-05-21,Mario,Andretti,American,Zolder,Belgium,1,9.0,50.9894,5.25694
+874,1977-06-05,Gunnar,Nilsson,Swedish,Zolder,Belgium,3,9.0,50.9894,5.25694
+875,1973-05-20,Jackie,Stewart,British,Zolder,Belgium,6,9.0,50.9894,5.25694
+876,1982-09-25,Michele,Alboreto,Italian,Las Vegas Street Circuit,USA,3,9.0,36.1162,-115.17399999999999
+877,1981-10-17,Alan,Jones,Australian,Las Vegas Street Circuit,USA,2,9.0,36.1162,-115.17399999999999
+878,1984-07-08,Keke,Rosberg,Finnish,Fair Park,USA,8,9.0,32.7774,-96.7587
+879,1978-06-17,Niki,Lauda,Austrian,Scandinavian Raceway,Sweden,3,9.0,57.2653,13.6042
+880,1975-06-08,Niki,Lauda,Austrian,Scandinavian Raceway,Sweden,5,9.0,57.2653,13.6042
+881,1977-06-19,Jacques,Laffite,French,Scandinavian Raceway,Sweden,8,9.0,57.2653,13.6042
+882,1976-06-13,Jody,Scheckter,South African,Scandinavian Raceway,Sweden,1,9.0,57.2653,13.6042
+883,1974-06-09,Jody,Scheckter,South African,Scandinavian Raceway,Sweden,2,9.0,57.2653,13.6042
+884,1973-06-17,Denny,Hulme,New Zealander,Scandinavian Raceway,Sweden,6,9.0,57.2653,13.6042
+885,1975-10-05,Niki,Lauda,Austrian,Watkins Glen,USA,1,9.0,42.3369,-76.9272
+886,1980-10-05,Alan,Jones,Australian,Watkins Glen,USA,5,9.0,42.3369,-76.9272
+887,1978-10-01,Carlos,Reutemann,Argentine,Watkins Glen,USA,2,9.0,42.3369,-76.9272
+888,1974-10-06,Carlos,Reutemann,Argentine,Watkins Glen,USA,1,9.0,42.3369,-76.9272
+889,1979-10-07,Gilles,Villeneuve,Canadian,Watkins Glen,USA,3,9.0,42.3369,-76.9272
+890,1973-10-07,Ronnie,Peterson,Swedish,Watkins Glen,USA,1,9.0,42.3369,-76.9272
+891,1977-10-02,James,Hunt,British,Watkins Glen,USA,1,9.0,42.3369,-76.9272
+892,1976-10-10,James,Hunt,British,Watkins Glen,USA,1,9.0,42.3369,-76.9272
+893,1970-10-04,Emerson,Fittipaldi,Brazilian,Watkins Glen,USA,3,9.0,42.3369,-76.9272
+894,1972-10-08,Jackie,Stewart,British,Watkins Glen,USA,1,9.0,42.3369,-76.9272
+895,1968-10-06,Jackie,Stewart,British,Watkins Glen,USA,2,9.0,42.3369,-76.9272
+896,1971-10-03,FranÌ¤ois,Cevert,French,Watkins Glen,USA,5,9.0,42.3369,-76.9272
+897,1969-10-05,Jochen,Rindt,Austrian,Watkins Glen,USA,1,9.0,42.3369,-76.9272
+898,1965-10-03,Graham,Hill,British,Watkins Glen,USA,1,9.0,42.3369,-76.9272
+899,1964-10-04,Graham,Hill,British,Watkins Glen,USA,4,9.0,42.3369,-76.9272
+900,1963-10-06,Graham,Hill,British,Watkins Glen,USA,1,9.0,42.3369,-76.9272
+901,1967-10-01,Jim,Clark,British,Watkins Glen,USA,2,9.0,42.3369,-76.9272
+902,1966-10-02,Jim,Clark,British,Watkins Glen,USA,2,9.0,42.3369,-76.9272
+903,1962-10-07,Jim,Clark,British,Watkins Glen,USA,1,9.0,42.3369,-76.9272
+904,1961-10-08,Innes,Ireland,British,Watkins Glen,USA,8,9.0,42.3369,-76.9272
+905,1974-04-28,Niki,Lauda,Austrian,Jarama,Spain,1,9.0,40.6171,-3.58558
+906,1981-06-21,Gilles,Villeneuve,Canadian,Jarama,Spain,7,9.0,40.6171,-3.58558
+907,1979-04-29,Patrick,Depailler,French,Jarama,Spain,2,9.0,40.6171,-3.58558
+908,1978-06-04,Mario,Andretti,American,Jarama,Spain,1,9.0,40.6171,-3.58558
+909,1977-05-08,Mario,Andretti,American,Jarama,Spain,1,9.0,40.6171,-3.58558
+910,1976-05-02,James,Hunt,British,Jarama,Spain,1,9.0,40.6171,-3.58558
+911,1972-05-01,Emerson,Fittipaldi,Brazilian,Jarama,Spain,3,9.0,40.6171,-3.58558
+912,1970-04-19,Jackie,Stewart,British,Jarama,Spain,3,9.0,40.6171,-3.58558
+913,1968-05-12,Graham,Hill,British,Jarama,Spain,6,9.0,40.6171,-3.58558
+914,1977-10-09,Jody,Scheckter,South African,Mosport International Raceway,Canada,9,9.0,44.0481,-78.6756
+915,1976-10-03,James,Hunt,British,Mosport International Raceway,Canada,1,9.0,44.0481,-78.6756
+916,1974-09-22,Emerson,Fittipaldi,Brazilian,Mosport International Raceway,Canada,1,9.0,44.0481,-78.6756
+917,1972-09-24,Jackie,Stewart,British,Mosport International Raceway,Canada,5,9.0,44.0481,-78.6756
+918,1971-09-19,Jackie,Stewart,British,Mosport International Raceway,Canada,1,9.0,44.0481,-78.6756
+919,1973-09-23,Peter,Revson,American,Mosport International Raceway,Canada,2,9.0,44.0481,-78.6756
+920,1969-09-20,Jacky,Ickx,Belgian,Mosport International Raceway,Canada,1,9.0,44.0481,-78.6756
+921,1967-08-27,Jack,Brabham,Australian,Mosport International Raceway,Canada,7,9.0,44.0481,-78.6756
+922,1974-05-12,Emerson,Fittipaldi,Brazilian,Nivelles-Baulers,Belgium,4,9.0,50.6211,4.3269400000000005
+923,1972-06-04,Emerson,Fittipaldi,Brazilian,Nivelles-Baulers,Belgium,1,9.0,50.6211,4.3269400000000005
+924,1973-04-29,Emerson,Fittipaldi,Brazilian,MontjuÌøc,Spain,7,9.0,41.3664,2.15167
+925,1975-04-27,Jochen,Mass,German,MontjuÌøc,Spain,11,4.5,41.3664,2.15167
+926,1971-04-18,Jackie,Stewart,British,MontjuÌøc,Spain,4,9.0,41.3664,2.15167
+927,1969-05-04,Jackie,Stewart,British,MontjuÌøc,Spain,4,9.0,41.3664,2.15167
+928,1968-09-22,Denny,Hulme,New Zealander,Circuit Mont-Tremblant,Canada,6,9.0,46.1877,-74.6099
+929,1970-09-20,Jacky,Ickx,Belgian,Circuit Mont-Tremblant,Canada,2,9.0,46.1877,-74.6099
+930,1972-07-02,Jackie,Stewart,British,Charade Circuit,France,3,9.0,45.7472,3.0388900000000003
+931,1969-07-06,Jackie,Stewart,British,Charade Circuit,France,1,9.0,45.7472,3.0388900000000003
+932,1970-07-05,Jochen,Rindt,Austrian,Charade Circuit,France,6,9.0,45.7472,3.0388900000000003
+933,1965-06-27,Jim,Clark,British,Charade Circuit,France,1,9.0,45.7472,3.0388900000000003
+934,1968-07-07,Jacky,Ickx,Belgian,Rouen-Les-Essarts,France,3,9.0,49.3306,1.00458
+935,1964-06-28,Dan,Gurney,American,Rouen-Les-Essarts,France,2,9.0,49.3306,1.00458
+936,1962-07-08,Dan,Gurney,American,Rouen-Les-Essarts,France,6,9.0,49.3306,1.00458
+937,1957-07-07,Juan,Fangio,Argentine,Rouen-Les-Essarts,France,1,8.0,49.3306,1.00458
+938,1952-07-06,Alberto,Ascari,Italian,Rouen-Les-Essarts,France,1,9.0,49.3306,1.00458
+939,1967-07-02,Jack,Brabham,Australian,Le Mans,France,2,9.0,47.95,0.22423099999999999
+940,1966-07-03,Jack,Brabham,Australian,Reims-Gueux,France,4,9.0,49.2542,3.9308300000000003
+941,1960-07-03,Jack,Brabham,Australian,Reims-Gueux,France,1,8.0,49.2542,3.9308300000000003
+942,1963-06-30,Jim,Clark,British,Reims-Gueux,France,1,9.0,49.2542,3.9308300000000003
+943,1961-07-02,Giancarlo,Baghetti,Italian,Reims-Gueux,France,12,9.0,49.2542,3.9308300000000003
+944,1959-07-05,Tony,Brooks,British,Reims-Gueux,France,1,8.0,49.2542,3.9308300000000003
+945,1958-07-06,Mike,Hawthorn,British,Reims-Gueux,France,1,9.0,49.2542,3.9308300000000003
+946,1953-07-05,Mike,Hawthorn,British,Reims-Gueux,France,7,8.0,49.2542,3.9308300000000003
+947,1956-07-01,Peter,Collins,British,Reims-Gueux,France,3,8.0,49.2542,3.9308300000000003
+948,1954-07-04,Juan,Fangio,Argentine,Reims-Gueux,France,1,8.0,49.2542,3.9308300000000003
+949,1951-07-01,Juan,Fangio,Argentine,Reims-Gueux,France,7,5.0,49.2542,3.9308300000000003
+950,1950-07-02,Juan,Fangio,Argentine,Reims-Gueux,France,1,9.0,49.2542,3.9308300000000003
+951,1951-07-01,Luigi,Fagioli,Italian,Reims-Gueux,France,7,4.0,49.2542,3.9308300000000003
+952,1960-08-14,Jack,Brabham,Australian,Circuito da Boavista,Portugal,3,8.0,41.1705,-8.67325
+953,1958-08-24,Stirling,Moss,British,Circuito da Boavista,Portugal,1,8.0,41.1705,-8.67325
+954,1959-07-18,Jack,Brabham,Australian,Aintree,UK,1,8.0,53.4769,-2.94056
+955,1962-07-21,Jim,Clark,British,Aintree,UK,1,9.0,53.4769,-2.94056
+956,1957-07-20,Stirling,Moss,British,Aintree,UK,3,5.0,53.4769,-2.94056
+957,1955-07-16,Stirling,Moss,British,Aintree,UK,1,9.0,53.4769,-2.94056
+958,1961-07-15,Wolfgang,von Trips,German,Aintree,UK,4,9.0,53.4769,-2.94056
+959,1957-07-20,Tony,Brooks,British,Aintree,UK,3,4.0,53.4769,-2.94056
+960,1962-12-29,Graham,Hill,British,Prince George Circuit,South Africa,2,9.0,-33.0486,27.8736
+961,1965-01-01,Jim,Clark,British,Prince George Circuit,South Africa,1,9.0,-33.0486,27.8736
+962,1963-12-28,Jim,Clark,British,Prince George Circuit,South Africa,1,9.0,-33.0486,27.8736
+963,1959-12-12,Bruce,McLaren,New Zealander,Sebring International Raceway,USA,10,8.0,27.4547,-81.3483
+964,1964-08-23,Lorenzo,Bandini,Italian,Zeltweg,Austria,7,9.0,47.2039,14.7478
+965,1960-11-20,Stirling,Moss,British,Riverside International Raceway,USA,1,8.0,33.937,-117.273
+966,1959-08-23,Stirling,Moss,British,Monsanto Park Circuit,Portugal,1,9.0,38.7197,-9.20306
+967,1958-10-19,Stirling,Moss,British,Ain Diab,Morocco,2,9.0,33.5786,-7.6875
+968,1957-08-18,Stirling,Moss,British,Pescara Circuit,Italy,2,9.0,42.475,14.1508
+969,1959-08-02,Tony,Brooks,British,AVUS,Germany,1,9.0,52.4806,13.2514
+970,1954-10-24,Mike,Hawthorn,British,Circuit de Pedralbes,Spain,3,8.0,41.3903,2.11667
+971,1951-10-28,Juan,Fangio,Argentine,Circuit de Pedralbes,Spain,2,9.0,41.3903,2.11667
+972,1954-08-22,Juan,Fangio,Argentine,Circuit Bremgarten,Switzerland,2,9.0,46.9589,7.40194
+973,1951-05-27,Juan,Fangio,Argentine,Circuit Bremgarten,Switzerland,1,9.0,46.9589,7.40194
+974,1953-08-23,Alberto,Ascari,Italian,Circuit Bremgarten,Switzerland,2,9.0,46.9589,7.40194
+975,1950-06-04,Nino,Farina,Italian,Circuit Bremgarten,Switzerland,2,9.0,46.9589,7.40194
+976,1952-05-18,Piero,Taruffi,Italian,Circuit Bremgarten,Switzerland,2,9.0,46.9589,7.40194
+977,2016-06-19,Nico,Rosberg,German,Baku City Circuit,Azerbaijan,1,25.0,40.3725,49.8533
+978,2017-06-25,Daniel,Ricciardo,Australian,Baku City Circuit,Azerbaijan,10,25.0,40.3725,49.8533
